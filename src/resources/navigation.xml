@@ -1,0 +1,14 @@
+<navigation-rules>
+    <location>
+        <name>Welcome Page</name>
+        <destination>
+            <action>Browse Catalog</action>
+            <location-name>Catalog Page</location-name>
+        </destination>
+    </location>
+    
+    <location>
+        <name>Catalog Page</name>
+    </location>
+</navigation-rules>
+

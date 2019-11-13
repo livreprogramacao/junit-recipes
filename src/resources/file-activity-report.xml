@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<document>
+  <properties>
+    <title>File Activity Analysis</title>
+  </properties>
+  <body>
+    <section name="Activity by File">
+      <p>Timeframe: 30 days, Total Commits: 0 Total Number of Files Changed: 0</p>
+      <table>
+        <tr>
+          <th>File Name</th>
+          <th>Number of times changed</th>
+        </tr>
+      </table>
+    </section>
+  </body>
+</document>

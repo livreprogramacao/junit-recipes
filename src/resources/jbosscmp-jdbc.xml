@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE jbosscmp-jdbc PUBLIC
+"-//JBoss//DTD JBOSSCMP-JDBC 3.0//EN"
+"http://www.jboss.org/j2ee/dtd/jbosscmp-jdbc_3_0.dtd">
+
+<jbosscmp-jdbc>
+    <defaults>
+        <datasource>java:/jdbc/mimer/CoffeeShopData</datasource>
+        <datasource-mapping>DB2</datasource-mapping>
+        <create-table>false</create-table>
+        <remove-table>false</remove-table>
+        <read-only>false</read-only>
+    </defaults>
+
+    <enterprise-beans>
+        <entity>
+            <ejb-name>CoffeeCatalogItem</ejb-name>
+            <table-name>catalog.beans</table-name>
+            <cmp-field>
+                <field-name>productId</field-name>
+                <column-name>productId</column-name>
+            </cmp-field>
+            <cmp-field>
+                <field-name>coffeeName</field-name>
+                <column-name>coffeeName</column-name>
+            </cmp-field>
+            <cmp-field>
+                <field-name>unitPrice</field-name>
+                <column-name>unitPrice</column-name>
+            </cmp-field>
+        </entity>
+    </enterprise-beans>
+</jbosscmp-jdbc>

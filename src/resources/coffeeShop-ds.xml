@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<datasources>
+    <local-tx-datasource>
+        <jndi-name>jdbc/mimer/CoffeeShopData</jndi-name>
+        <connection-url>jdbc:mimer:/coffeeShopData</connection-url>
+        <driver-class>com.mimer.jdbc.Driver</driver-class>
+        <user-name>admin</user-name>
+        <password>adm1n</password>
+    </local-tx-datasource>
+</datasources>
+

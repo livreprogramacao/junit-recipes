@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<document>
+  <properties>
+    <title>Downloads</title>
+  </properties>
+  <body>
+    <section name="Downloads">
+      <p>List of available downloads.</p>
+      <table>
+        <tr>
+          <th>Download links</th>
+        </tr>
+        <tr>
+          <td>
+            <a href="http://www.diasparsoftware.com/toolkit/download/diasparsoftToolkit-0.22.jar">Diasparsoft Toolkit v 0.22</a>
+          </td>
+        </tr>
+      </table>
+    </section>
+  </body>
+</document>

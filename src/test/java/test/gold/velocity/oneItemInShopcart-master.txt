@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="GENERATOR" content="IBM WebSphere Studio" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link href="theme/Master.css" rel="stylesheet" type="text/css" />
+<title>shopcart.jsp</title>
+</head>
+<body>
+<h1>your shopcart contains</h1>
+<table name="shopcart" border="1">
+	<tbody>
+		<tr>
+			<td><b>Name</b></td>
+			<td><b>Quantity</b></td>
+			<td><b>Unit Price</b></td>
+			<td><b>Total Price</b></td>
+		</tr>
+		<tr>
+			<td>Sumatra</td>
+			<td id="product-762">5 kg</td>
+			<td>$7.50</td>
+			<td>$37.50</td>
+		</tr>
+		<tr>
+			<td colspan="3"><b>Subtotal</b></td>
+			<td><b>$37.50</b></td>
+		</tr>
+	</tbody>
+</table>
+
+<form action="coffee" method="POST"><input type="submit"
+	name="browseCatalog" value="Buy More Coffee!" /></form>
+</body>
+</html>

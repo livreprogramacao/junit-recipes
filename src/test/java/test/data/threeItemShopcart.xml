@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shopcart>
+	<item id="762">
+		<name>Special Blend</name>
+		<quantity>1</quantity>
+		<unit-price>$7.25</unit-price>
+		<total-price>$7.25</total-price>
+	</item>
+	<item id="903">
+		<name>Huehuetenango</name>
+		<quantity>2</quantity>
+		<unit-price>$6.50</unit-price>
+		<total-price>$13.00</total-price>
+	</item>
+	<item id="001">
+		<name>Colombiano</name>
+		<quantity>3</quantity>
+		<unit-price>$8.00</unit-price>
+		<total-price>$24.00</total-price>
+	</item>
+	<subtotal>$44.25</subtotal>
+</shopcart>

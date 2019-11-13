@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project basedir="." default="junit-run" name="myproject">
+    <property name="src.dir" location="${basedir}/src"/>
+    <property name="classes.dir" location="${basedir}/classes"/>
+    <property name="junit.reports.dir" location="${basedir}/junit"/>
+    <property name="junit.includes"
+            value="junit/cookbook/tests/**/*Test.java"/>
+    <property name="junit.excludes" value="**/AllTests.java"/>
+
+    <!-- clean, compile and other build targets
+         omitted for brevity -->
+
+    <target name="junit-run"
+            description="=> run JUnit tests">
+        <mkdir dir="${junit.reports.dir}/xml"/>
+        <junit haltonfailure="no" fork="yes"
+                printsummary="withOutAndErr">
+            <classpath>
+                <pathelement location="${classes.dir}"/>
+                <pathelement path="${java.class.path}"/>
+            </classpath>
+            <batchtest fork="yes" todir="${junit.reports.dir}/xml">
+                <formatter type="xml"/>
+                <fileset dir="${src.dir}">
+                    <include name="${junit.includes}"/>
+                    <exclude name="${junit.excludes}"/>
+                </fileset>
+            </batchtest>
+        </junit>
+    </target>
+
+    <target name="junit-report" depends="junit-run"
+            description="=> generate JUnit HTML report">
+        <junitreport todir="${junit.reports.dir}/xml">
+            <fileset dir="${junit.reports.dir}/xml">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames"
+                    todir="${junit.reports.dir}"/>
+        </junitreport>
+    </target>
+</project>
+

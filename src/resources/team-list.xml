@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- 
+/*
+ * Copyright 2001-2004 The Apache Software Foundation.
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ -->
+
+<document>
+
+  <properties>
+    <title>Project Team</title>
+  </properties>
+  
+  <head>
+  	<script type="text/javascript">
+  	  function offsetDate(id, offset) {
+
+            var now = new Date() ;
+            var nowTime = now.getTime() ;
+            var localOffset = now.getTimezoneOffset() ;
+            var developerTime = nowTime + (offset * 60 * 60 * 1000) + (localOffset * 60 * 1000) ;
+            var developerDate = new Date(developerTime) ;
+
+            document.getElementById(id).innerHTML = developerDate;
+          }
+  	
+  	  function init() {
+	    	       	         	           offsetDate("developer-jbrains", "-5");
+	         	                     }
+    </script>
+  </head>
+  
+  <body onload="init();">
+
+    <section name="The Team">
+      <p>
+        A successful project requires many people to play many roles.
+        Some members write code or documentation, while others are
+        valuable as testers, submitting patches and suggestions.
+      </p>
+
+      <p>
+        The team is comprised of <a href="#Members">Members</a>
+        and <a href="#Contributors">Contributors</a>.  Members 
+        have direct access to the source of a project and actively
+        evolve the code-base.  Contributors improve the project
+        through submission of patches and suggestions to the Members.
+        The number of Contributors to the project is unbounded.
+        Get involved today.  All contributions to the project are
+        greatly appreciated.
+      </p>
+
+    <subsection name="Members">
+          <p>
+        The following is a list of developers with commit privileges that have 
+        directly contributed to the project in one way or another.  
+      </p>
+      <table>
+        <thead>
+        <tr>
+          <th>Name</th>
+          <th>Id</th>
+          <th>Email</th>
+          <th>Organization</th>
+          <th>Roles</th>
+          <th>TZ Offset</th>
+          <th>Time</th>
+        </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td>J. B. Rainsberger</td>
+                    <td><a name="jbrains"/>jbrains</td>
+          <td><a href="mailto:jbr@diasparsoftware.com">jbr@diasparsoftware.com</a></td>
+          <td>Diaspar Software Services, Inc.</td>
+          <td>
+                    Programmer<br/>
+                    Release Manager<br/>
+                    </td>
+          <td>-5</td>
+          <td><span id="developer-jbrains">Unknown</span></td>
+        </tr>
+                </tbody>
+      </table>
+    	</subsection>
+	<subsection name="Contributors">
+    	  <p>
+	    There are no contributors listed for this project. Please check
+ 	    back again later.
+ 	  </p>
+        </subsection>
+    </section>
+  </body>
+</document>

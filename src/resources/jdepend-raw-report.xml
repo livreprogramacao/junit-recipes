@@ -1,0 +1,716 @@
+<?xml version="1.0"?>
+<JDepend>
+    <Packages>
+
+        <Package name="com.diasparsoftware.gsbase">
+            <Stats>
+                <TotalClasses>4</TotalClasses>
+                <ConcreteClasses>3</ConcreteClasses>
+                <AbstractClasses>1</AbstractClasses>
+                <Ca>1</Ca>
+                <Ce>4</Ce>
+                <A>0.25</A>
+                <I>0.8</I>
+                <D>0.05</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+                <Class sourceFile="Stopwatch.java">
+                    com.diasparsoftware.gsbase.Stopwatch
+                </Class>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="Assert.java">
+                    com.diasparsoftware.gsbase.Assert
+                </Class>
+                <Class sourceFile="StreamUtil.java">
+                    com.diasparsoftware.gsbase.StreamUtil
+                </Class>
+                <Class sourceFile="SystemClockStopwatch.java">
+                    com.diasparsoftware.gsbase.SystemClockStopwatch
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>com.gargoylesoftware.base.util</Package>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+                <Package>java.util</Package>
+            </DependsUpon>
+
+            <UsedBy>
+                <Package>com.diasparsoftware.htmlunitx</Package>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.htmlunitx">
+            <Stats>
+                <TotalClasses>4</TotalClasses>
+                <ConcreteClasses>3</ConcreteClasses>
+                <AbstractClasses>1</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>7</Ce>
+                <A>0.25</A>
+                <I>1</I>
+                <D>0.25</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+                <Class sourceFile="TestableWebResponse.java">
+                    com.diasparsoftware.htmlunitx.TestableWebResponse
+                </Class>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="FileSystemWebResponse.java">
+                    com.diasparsoftware.htmlunitx.FileSystemWebResponse
+                </Class>
+                <Class sourceFile="InputStreamWebResponse.java">
+                    com.diasparsoftware.htmlunitx.InputStreamWebResponse
+                </Class>
+                <Class sourceFile="TestableWebConnection.java">
+                    com.diasparsoftware.htmlunitx.TestableWebConnection
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>com.diasparsoftware.gsbase</Package>
+                <Package>com.gargoylesoftware.htmlunit</Package>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+                <Package>java.net</Package>
+                <Package>java.util</Package>
+                <Package>org.apache.commons.httpclient</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.java.io">
+            <Stats>
+                <TotalClasses>1</TotalClasses>
+                <ConcreteClasses>1</ConcreteClasses>
+                <AbstractClasses>0</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>2</Ce>
+                <A>0</A>
+                <I>1</I>
+                <D>0</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="ReaderUtil.java">
+                    com.diasparsoftware.java.io.ReaderUtil
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.java.lang">
+            <Stats>
+                <TotalClasses>2</TotalClasses>
+                <ConcreteClasses>2</ConcreteClasses>
+                <AbstractClasses>0</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>2</Ce>
+                <A>0</A>
+                <I>1</I>
+                <D>0</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="ArrayUtil.java">
+                    com.diasparsoftware.java.lang.ArrayUtil
+                </Class>
+                <Class sourceFile="MissingParameterException.java">
+                    com.diasparsoftware.java.lang.MissingParameterException
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>java.lang</Package>
+                <Package>java.util</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.java.sql">
+            <Stats>
+                <TotalClasses>1</TotalClasses>
+                <ConcreteClasses>1</ConcreteClasses>
+                <AbstractClasses>0</AbstractClasses>
+                <Ca>1</Ca>
+                <Ce>2</Ce>
+                <A>0</A>
+                <I>0.67</I>
+                <D>0.33</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="PreparedStatementData.java">
+                    com.diasparsoftware.java.sql.PreparedStatementData
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>java.lang</Package>
+                <Package>java.util</Package>
+            </DependsUpon>
+
+            <UsedBy>
+                <Package>com.diasparsoftware.jdbc</Package>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.java.util">
+            <Stats>
+                <TotalClasses>10</TotalClasses>
+                <ConcreteClasses>6</ConcreteClasses>
+                <AbstractClasses>4</AbstractClasses>
+                <Ca>4</Ca>
+                <Ce>6</Ce>
+                <A>0.4</A>
+                <I>0.6</I>
+                <D>0</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+                <Class sourceFile="ExceptionalClosure.java">
+                    com.diasparsoftware.java.util.ExceptionalClosure
+                </Class>
+                <Class sourceFile="ExceptionalMapEntryClosure.java">
+                    com.diasparsoftware.java.util.ExceptionalMapEntryClosure
+                </Class>
+                <Class sourceFile="MapEntryClosure.java">
+                    com.diasparsoftware.java.util.MapEntryClosure
+                </Class>
+                <Class sourceFile="Selector.java">
+                    com.diasparsoftware.java.util.Selector
+                </Class>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="CalendarUtil.java">
+                    com.diasparsoftware.java.util.CalendarUtil
+                </Class>
+                <Class sourceFile="CollectionUtil.java">
+                    com.diasparsoftware.java.util.CollectionUtil
+                </Class>
+                <Class sourceFile="CollectionUtil.java">
+                    com.diasparsoftware.java.util.CollectionUtil$1
+                </Class>
+                <Class sourceFile="DateUtil.java">
+                    com.diasparsoftware.java.util.DateUtil
+                </Class>
+                <Class sourceFile="Money.java">
+                    com.diasparsoftware.java.util.Money
+                </Class>
+                <Class sourceFile="Quantity.java">
+                    com.diasparsoftware.java.util.Quantity
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+                <Package>java.math</Package>
+                <Package>java.text</Package>
+                <Package>java.util</Package>
+                <Package>org.apache.commons.collections</Package>
+            </DependsUpon>
+
+            <UsedBy>
+                <Package>com.diasparsoftware.javax.jms</Package>
+                <Package>com.diasparsoftware.javax.servlet.http</Package>
+                <Package>com.diasparsoftware.jdbc</Package>
+                <Package>com.diasparsoftware.util.junit</Package>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.javax.jms">
+            <Stats>
+                <TotalClasses>6</TotalClasses>
+                <ConcreteClasses>5</ConcreteClasses>
+                <AbstractClasses>1</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>5</Ce>
+                <A>0.17</A>
+                <I>1</I>
+                <D>0.17</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+                <Class sourceFile="MapMessageSender.java">
+                    com.diasparsoftware.javax.jms.MapMessageSender
+                </Class>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="JBossMapMessageSender.java">
+                    com.diasparsoftware.javax.jms.JBossMapMessageSender
+                </Class>
+                <Class sourceFile="JBossMapMessageSender.java">
+                    com.diasparsoftware.javax.jms.JBossMapMessageSender$1
+                </Class>
+                <Class sourceFile="MessageBuilder.java">
+                    com.diasparsoftware.javax.jms.MessageBuilder
+                </Class>
+                <Class sourceFile="MessageBuilder.java">
+                    com.diasparsoftware.javax.jms.MessageBuilder$1
+                </Class>
+                <Class sourceFile="MessagingException.java">
+                    com.diasparsoftware.javax.jms.MessagingException
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>com.diasparsoftware.java.util</Package>
+                <Package>java.lang</Package>
+                <Package>java.util</Package>
+                <Package>javax.jms</Package>
+                <Package>javax.naming</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.javax.servlet">
+            <Stats>
+                <TotalClasses>3</TotalClasses>
+                <ConcreteClasses>3</ConcreteClasses>
+                <AbstractClasses>0</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>6</Ce>
+                <A>0</A>
+                <I>1</I>
+                <D>0</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="ForwardingServlet.java">
+                    com.diasparsoftware.javax.servlet.ForwardingServlet
+                </Class>
+                <Class sourceFile="ServletUtil.java">
+                    com.diasparsoftware.javax.servlet.ServletUtil
+                </Class>
+                <Class sourceFile="ServletUtil.java">
+                    com.diasparsoftware.javax.servlet.ServletUtil$1
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+                <Package>java.util</Package>
+                <Package>javax.servlet</Package>
+                <Package>javax.servlet.http</Package>
+                <Package>org.apache.commons.collections</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.javax.servlet.http">
+            <Stats>
+                <TotalClasses>6</TotalClasses>
+                <ConcreteClasses>6</ConcreteClasses>
+                <AbstractClasses>0</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>7</Ce>
+                <A>0</A>
+                <I>1</I>
+                <D>0</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="FakeHttpSession.java">
+                    com.diasparsoftware.javax.servlet.http.FakeHttpSession
+                </Class>
+                <Class sourceFile="HttpSessionAdapter.java">
+                    com.diasparsoftware.javax.servlet.http.HttpSessionAdapter
+                </Class>
+                <Class sourceFile="HttpUtil.java">
+                    com.diasparsoftware.javax.servlet.http.HttpUtil
+                </Class>
+                <Class sourceFile="HttpUtil.java">
+                    com.diasparsoftware.javax.servlet.http.HttpUtil$1
+                </Class>
+                <Class sourceFile="HttpUtil.java">
+                    com.diasparsoftware.javax.servlet.http.HttpUtil$2
+                </Class>
+                <Class sourceFile="RequestDispatcherAdapter.java">
+                    com.diasparsoftware.javax.servlet.http.RequestDispatcherAdapter
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>com.diasparsoftware.java.util</Package>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+                <Package>java.util</Package>
+                <Package>javax.servlet</Package>
+                <Package>javax.servlet.http</Package>
+                <Package>org.apache.catalina.connector</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.jdbc">
+            <Stats>
+                <TotalClasses>14</TotalClasses>
+                <ConcreteClasses>10</ConcreteClasses>
+                <AbstractClasses>4</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>9</Ce>
+                <A>0.29</A>
+                <I>1</I>
+                <D>0.29</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+                <Class sourceFile="JdbcQueryBuilder.java">
+                    com.diasparsoftware.jdbc.JdbcQueryBuilder
+                </Class>
+                <Class sourceFile="JdbcRowMapper.java">
+                    com.diasparsoftware.jdbc.JdbcRowMapper
+                </Class>
+                <Class sourceFile="PreparedStatementBuilder.java">
+                    com.diasparsoftware.jdbc.PreparedStatementBuilder
+                </Class>
+                <Class sourceFile="PreparedStatementExecuter.java">
+                    com.diasparsoftware.jdbc.PreparedStatementExecuter
+                </Class>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="JdbcMapper.java">
+                    com.diasparsoftware.jdbc.JdbcMapper
+                </Class>
+                <Class sourceFile="JdbcQueryBuilder.java">
+                    com.diasparsoftware.jdbc.JdbcQueryBuilder$1
+                </Class>
+                <Class sourceFile="JdbcQueryExecuter.java">
+                    com.diasparsoftware.jdbc.JdbcQueryExecuter
+                </Class>
+                <Class sourceFile="JdbcResourceRegistry.java">
+                    com.diasparsoftware.jdbc.JdbcResourceRegistry
+                </Class>
+                <Class sourceFile="JdbcResourceRegistry.java">
+                    com.diasparsoftware.jdbc.JdbcResourceRegistry$1
+                </Class>
+                <Class sourceFile="JdbcResourceRegistry.java">
+                    com.diasparsoftware.jdbc.JdbcResourceRegistry$2
+                </Class>
+                <Class sourceFile="JdbcResourceRegistry.java">
+                    com.diasparsoftware.jdbc.JdbcResourceRegistry$3
+                </Class>
+                <Class sourceFile="JdbcUtil.java">
+                    com.diasparsoftware.jdbc.JdbcUtil
+                </Class>
+                <Class sourceFile="JdbcUtil.java">
+                    com.diasparsoftware.jdbc.JdbcUtil$1
+                </Class>
+                <Class sourceFile="RowCountRowMapper.java">
+                    com.diasparsoftware.jdbc.RowCountRowMapper
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>com.diasparsoftware.java.sql</Package>
+                <Package>com.diasparsoftware.java.util</Package>
+                <Package>com.diasparsoftware.store</Package>
+                <Package>com.gargoylesoftware.base.util</Package>
+                <Package>java.lang</Package>
+                <Package>java.sql</Package>
+                <Package>java.util</Package>
+                <Package>org.apache.commons.collections</Package>
+                <Package>org.easymock</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.store">
+            <Stats>
+                <TotalClasses>2</TotalClasses>
+                <ConcreteClasses>2</ConcreteClasses>
+                <AbstractClasses>0</AbstractClasses>
+                <Ca>1</Ca>
+                <Ce>1</Ce>
+                <A>0</A>
+                <I>0.5</I>
+                <D>0.5</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="DataMakesNoSenseException.java">
+                    com.diasparsoftware.store.DataMakesNoSenseException
+                </Class>
+                <Class sourceFile="DataStoreException.java">
+                    com.diasparsoftware.store.DataStoreException
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>java.lang</Package>
+            </DependsUpon>
+
+            <UsedBy>
+                <Package>com.diasparsoftware.jdbc</Package>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.util.jboss.testing">
+            <Stats>
+                <TotalClasses>1</TotalClasses>
+                <ConcreteClasses>0</ConcreteClasses>
+                <AbstractClasses>1</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>6</Ce>
+                <A>1</A>
+                <I>1</I>
+                <D>1</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+                <Class sourceFile="EntityBeanMetaDataTest.java">
+                    com.diasparsoftware.util.jboss.testing.EntityBeanMetaDataTest
+                </Class>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+                <Package>javax.xml.transform</Package>
+                <Package>org.custommonkey.xmlunit</Package>
+                <Package>org.w3c.dom</Package>
+                <Package>org.xml.sax</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.diasparsoftware.util.junit">
+            <Stats>
+                <TotalClasses>15</TotalClasses>
+                <ConcreteClasses>14</ConcreteClasses>
+                <AbstractClasses>1</AbstractClasses>
+                <Ca>0</Ca>
+                <Ce>7</Ce>
+                <A>0.07</A>
+                <I>1</I>
+                <D>0.07</D>
+                <V>1</V>
+            </Stats>
+
+            <AbstractClasses>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest
+                </Class>
+            </AbstractClasses>
+
+            <ConcreteClasses>
+                <Class sourceFile="GoldMasterFile.java">
+                    com.diasparsoftware.util.junit.GoldMasterFile
+                </Class>
+                <Class sourceFile="ParameterizedTestSuite.java">
+                    com.diasparsoftware.util.junit.ParameterizedTestSuite
+                </Class>
+                <Class sourceFile="ParameterizedTestSuite.java">
+                    com.diasparsoftware.util.junit.ParameterizedTestSuite$1
+                </Class>
+                <Class sourceFile="ParameterizedTestSuite.java">
+                    com.diasparsoftware.util.junit.ParameterizedTestSuite$2
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$1
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$10
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$2
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$3
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$4
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$5
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$6
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$7
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$8
+                </Class>
+                <Class sourceFile="ValueObjectEqualsTest.java">
+                    com.diasparsoftware.util.junit.ValueObjectEqualsTest$9
+                </Class>
+            </ConcreteClasses>
+
+            <DependsUpon>
+                <Package>com.diasparsoftware.java.util</Package>
+                <Package>java.io</Package>
+                <Package>java.lang</Package>
+                <Package>java.lang.reflect</Package>
+                <Package>java.util</Package>
+                <Package>junit.framework</Package>
+                <Package>org.apache.commons.collections</Package>
+            </DependsUpon>
+
+            <UsedBy>
+            </UsedBy>
+        </Package>
+
+        <Package name="com.gargoylesoftware.base.util">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="com.gargoylesoftware.htmlunit">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.io">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.lang">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.lang.reflect">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.math">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.net">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.sql">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.text">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="java.util">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="javax.jms">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="javax.naming">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="javax.servlet">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="javax.servlet.http">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="javax.xml.transform">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="junit.framework">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="org.apache.catalina.connector">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="org.apache.commons.collections">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="org.apache.commons.httpclient">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="org.custommonkey.xmlunit">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="org.easymock">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="org.w3c.dom">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+
+        <Package name="org.xml.sax">
+            <error>No stats available: package referenced, but not analyzed.</error>
+        </Package>
+    </Packages>
+
+    <Cycles>
+    </Cycles>
+</JDepend>

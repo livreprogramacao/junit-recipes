@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ejb-jar PUBLIC "-//Sun Microsystems, Inc.//DTD Enterprise JavaBeans 2.0//EN" "http://java.sun.com/dtd/ejb-jar_2_0.dtd">
+<ejb-jar id="ejb-jar_ID">
+    <display-name>CoffeeShopEJB</display-name>
+    <enterprise-beans>
+        <session>
+            <ejb-name>ShopcartOperations</ejb-name>
+            <home>junit.cookbook.coffee.model.ejb.ShopcartOperationsHome</home>
+            <remote>junit.cookbook.coffee.model.ejb.ShopcartOperations</remote>
+            <ejb-class>junit.cookbook.coffee.model.ejb.ShopcartOperationsBean</ejb-class>
+            <session-type>Stateless</session-type>
+            <transaction-type>Container</transaction-type>
+        </session>
+
+        <session>
+            <ejb-name>PricingOperations</ejb-name>
+            <home>junit.cookbook.coffee.model.ejb.PricingOperationsHome</home>
+            <remote>junit.cookbook.coffee.model.ejb.PricingOperations</remote>
+            <ejb-class>junit.cookbook.coffee.model.ejb.PricingOperationsBean</ejb-class>
+            <session-type>Stateless</session-type>
+            <transaction-type>Container</transaction-type>
+        </session>
+
+        <entity>
+            <ejb-name>CoffeeCatalogItem</ejb-name>
+            <home>junit.cookbook.coffee.model.ejb.CoffeeCatalogItemHome</home>
+            <remote>junit.cookbook.coffee.model.ejb.CoffeeCatalogItem</remote>
+            <ejb-class>junit.cookbook.coffee.model.ejb.CoffeeCatalogItemBean</ejb-class>
+            <persistence-type>Container</persistence-type>
+            <prim-key-class>java.lang.String</prim-key-class>
+            <reentrant>False</reentrant>
+            <cmp-version>2.x</cmp-version>
+            <abstract-schema-name>CoffeeCatalogItem</abstract-schema-name>
+            <cmp-field>
+                <field-name>productId</field-name>
+            </cmp-field>
+            <cmp-field>
+                <field-name>coffeeName</field-name>
+            </cmp-field>
+            <cmp-field>
+                <field-name>unitPrice</field-name>
+            </cmp-field>
+            <primkey-field>productId</primkey-field>
+
+            <query>
+                <query-method>
+                    <method-name>findByCoffeeName</method-name>
+                    <method-params>
+                        <method-param>java.lang.String</method-param>
+                    </method-params>
+                </query-method>
+                <ejb-ql>
+                    <![CDATA[SELECT OBJECT(coffeeCatalogItem) 
+                             FROM CoffeeCatalogItem AS coffeeCatalogItem
+                             WHERE coffeeCatalogItem.coffeeName = ?1]]>
+                </ejb-ql>
+            </query>
+        </entity>
+    </enterprise-beans>
+
+    <assembly-descriptor>
+        <security-role>
+            <role-name>Administrator</role-name>
+        </security-role>
+
+        <method-permission>
+            <role-name>Administrator</role-name>
+            <method>
+                <ejb-name>PricingOperations</ejb-name>
+                <method-name>*</method-name>
+            </method>
+        </method-permission>
+    </assembly-descriptor>
+</ejb-jar>
+

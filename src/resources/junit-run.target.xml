@@ -1,0 +1,24 @@
+<!-- This is not a complete Ant buildfile. This is a fragment
+     that you can adapt to your own Ant buildfiles.
+     You need to provide values for the various properties
+     used in this target. -->
+     
+<!--property declarations, clean, compile and other build
+targets omitted to save page space -->
+
+<target name="junit-run" description="=> run JUnit tests">
+    <junit haltonfailure="no" fork="yes" printsummary="no">
+        <classpath>
+            <pathelement location="${classes.dir}"/>
+            <pathelement path="${java.class.path}"/>
+        </classpath>
+        <batchtest fork="yes">
+            <formatter type="brief"
+                    usefile="no"/>
+            <fileset dir="${src.dir}">
+                <include name="${junit.includes}"/>
+                <exclude name="${junit.excludes}"/>
+            </fileset>
+        </batchtest>
+    </junit>
+</target>

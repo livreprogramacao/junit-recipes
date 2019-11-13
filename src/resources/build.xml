@@ -1,0 +1,59 @@
+<project name="Diasparsoft Toolkit" basedir="." default="runAllTests">
+	<property file="build.properties" />
+	
+	<property name="distribution.package" value="${distribution.directory}/lib/diasparsoft-toolkit-${distribution.version}.jar" />
+	<property name="mockobjects.dist" value="${mockobjects.home}/dist" />
+	<property name="mockobjects-core" value="${mockobjects.dist}/mockobjects-core-${mockobjects.version}.jar" />
+	<property name="mockobjects-jdk" value="${mockobjects.dist}/mockobjects-jdk${target.jdk.version}-${mockobjects.version}.jar" />
+	<property name="mockobjects-j2ee" value="${mockobjects.dist}/mockobjects-jdk${target.jdk.version}-j2ee${target.j2ee.version}-${mockobjects.version}.jar" />
+	<property name="gsbase" value="${gsbase.home}/gsbase-${gsbase.version}.jar" />
+	<property name="mockejb" value="${mockejb.home}/lib/mockejb.jar" />
+	<property name="easymock" value="${easymock.home}/easymock.jar" />
+
+	<target name="distribute">
+		<delete file="${distribution.package}" />
+        <jar 
+            destfile="${distribution.package}"
+            basedir="classes"  />
+	</target>
+	
+	<target name="runAllTests">
+		<delete dir="test/report" />
+		<mkdir dir="test/report" />
+		<junit printsummary="yes" haltonfailure="no">
+			<classpath>
+				<pathelement location="test/classes"/>
+				<pathelement location="classes"/>
+				<pathelement location="${j2ee.home}/lib/j2ee.jar"/>
+				<pathelement location="${httpunit.home}/lib/httpunit.jar"/>
+				<pathelement location="${commons-collections.home}/commons-collections.jar"/>
+				<pathelement location="${mockobjects-core}"/>
+				<pathelement location="${mockobjects-jdk}"/>
+				<pathelement location="${mockobjects-j2ee}"/>
+				<pathelement location="${gsbase}"/>
+				<pathelement location="${mockejb}"/>
+				<pathelement location="${easymock}"/>
+			    <fileset dir="${htmlunit.home}/lib">
+                    <include name="*.jar"/>
+			    </fileset>
+				<pathelement location="${junit-addons}"/>
+			</classpath>
+
+			<formatter type="xml"/>
+
+			<batchtest fork="yes" todir="test/report">
+				<fileset dir="test/source">
+					<include name="**/*Test.java"/>
+				</fileset>
+			</batchtest>
+		</junit>
+		
+		<mkdir dir="test/report/html" />
+	    <junitreport todir="test/report/html">
+	        <fileset dir="test/report">
+	            <include name="TEST-*.xml"/>
+	        </fileset>
+	        <report format="noframes" todir="test/report/html"/>
+	    </junitreport>
+	</target>
+</project>

@@ -1,0 +1,15 @@
+Testsuite: junit.cookbook.running.test.ObjectCacheHitTest
+Tests run: 2, Failures: 1, Errors: 0, Time elapsed: 0.02 sec
+
+Testcase: testFirstRequest took 0.01 sec
+Testcase: testExpectCacheHit took 0 sec
+	FAILED
+expected:<0> but was:<1>
+junit.framework.AssertionFailedError: expected:<0> but was:<1>
+	at junit.cookbook.running.test.ObjectCacheHitTest.testExpectCacheHit(ObjectCacheHitTest.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at junit.cookbook.running.ReloadedTestCaseDecorator.run(ReloadedTestCaseDecorator.java:25)
+
+Testcase: testExpectCacheHit

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<document>
+  <properties>
+    <title>Developer Activity Analysis</title>
+  </properties>
+  <body>
+    <section name="Activity by Developer">
+      <p>Timeframe: 30 days, Total Commits: 0 Total Number of Files Changed: 0</p>
+      <table>
+        <tr>
+          <th>Name</th>
+          <th>Number of Commits</th>
+          <th>Number of files changed</th>
+        </tr>
+      </table>
+    </section>
+  </body>
+</document>

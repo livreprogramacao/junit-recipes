@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<dataset>
+	<catalog.beans productId="000" 
+	               coffeeName="Sumatra" 
+	               unitPrice="750" />
+	               
+	<catalog.beans productId="001" 
+	               coffeeName="Special Blend" 
+	               unitPrice="825" />
+	               
+	<catalog.beans productId="002" 
+	               coffeeName="Colombiano" 
+	               unitPrice="925" />
+</dataset>

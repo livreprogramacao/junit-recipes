@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+    <display-name>Coffee Shop In-Container Tests</display-name>
+    <filter>
+        <filter-name>FilterRedirector</filter-name>
+        <filter-class>org.apache.cactus.server.FilterTestRedirector</filter-class>
+    </filter>
+
+    <filter-mapping>
+        <filter-name>FilterRedirector</filter-name>
+        <url-pattern>/FilterRedirector</url-pattern>
+    </filter-mapping>
+
+    <servlet>
+        <servlet-name>ServletRedirector</servlet-name>
+        <servlet-class>org.apache.cactus.server.ServletTestRedirector</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>ServletRedirectorSecure</servlet-name>
+        <servlet-class>org.apache.cactus.server.ServletTestRedirector</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>JspRedirector</servlet-name>
+        <jsp-file>/jspRedirector.jsp</jsp-file>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ServletRedirector</servlet-name>
+        <url-pattern>/ServletRedirector</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>ServletRedirectorSecure</servlet-name>
+        <url-pattern>/ServletRedirectorSecure</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>JspRedirector</servlet-name>
+        <url-pattern>/JspRedirector</url-pattern>
+    </servlet-mapping>
+
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+        <welcome-file>index.htm</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>default.html</welcome-file>
+        <welcome-file>default.htm</welcome-file>
+        <welcome-file>default.jsp</welcome-file>
+    </welcome-file-list>
+
+    <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>SecurityRestriction</web-resource-name>
+            <description>Protect the Cactus redirector servlet.</description>
+            <url-pattern>/ServletRedirectorSecure</url-pattern>
+            <http-method>GET</http-method>
+            <http-method>POST</http-method>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>test</role-name>
+        </auth-constraint>
+    </security-constraint>
+
+    <login-config>
+        <auth-method>BASIC</auth-method>
+    </login-config>
+	
+    <security-role>
+        <role-name>test</role-name>
+    </security-role>
+</web-app>
+

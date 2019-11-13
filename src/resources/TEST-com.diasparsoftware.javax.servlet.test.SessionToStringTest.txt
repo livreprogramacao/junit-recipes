@@ -1,0 +1,3 @@
+Testsuite: com.diasparsoftware.javax.servlet.test.SessionToStringTest
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.16 sec
+

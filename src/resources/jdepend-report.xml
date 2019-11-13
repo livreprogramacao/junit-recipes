@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<document>
+  <properties>
+    <title>JDepend Source Code Analysis</title>
+  </properties>
+  <head>
+    <style type="text/css">.jdepend td ul, .jdepend td ul li { margin:0; padding:0; list-style-type: none; }</style>
+  </head>
+  <body class="jdepend">
+    <section name="Metric Results">
+      <p>[
+        <a href="#Summary">summary</a>] [
+        <a href="#Packages">packages</a>] [
+        <a href="#Cycles">cycles</a>] [
+        <a href="#Explanations">explanations</a>]</p>
+      <p>The following document contains the results of a
+        <a href="http://www.clarkware.com/software/JDepend.html">JDepend</a>metric analysis. The various metrics are defined at the bottom of this document.</p>
+    </section>
+    <section name="Summary">
+      <p>[
+        <a href="#Summary">summary</a>] [
+        <a href="#Packages">packages</a>] [
+        <a href="#Cycles">cycles</a>] [
+        <a href="#Explanations">explanations</a>]</p>
+      <table summary="Summary">
+        <thead>
+          <tr>
+            <th title="Package">Package</th>
+            <th style="text-align:right">
+              <acronym title="Total Classes">TC</acronym>
+            </th>
+            <th style="text-align:right">
+              <acronym title="Abstract Classes">AC</acronym>
+            </th>
+            <th style="text-align:right">
+              <acronym title="Concrete Classes">CC</acronym>
+            </th>
+            <th style="text-align:right">
+              <acronym title="Afferent Couplings">AC</acronym>
+            </th>
+            <th style="text-align:right">
+              <acronym title="Efferent Couplings">EC</acronym>
+            </th>
+            <th style="text-align:right">
+              <acronym title="Abstractness">A</acronym>
+            </th>
+            <th style="text-align:right">
+              <acronym title="Instability">I</acronym>
+            </th>
+            <th style="text-align:right">
+              <acronym title="Distance">D</acronym>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.gsbase">com.diasparsoftware.gsbase</a>
+            </td>
+            <td style="text-align:right">4</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">3</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">4</td>
+            <td style="text-align:right">0.25</td>
+            <td style="text-align:right">80%</td>
+            <td style="text-align:right">5%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.htmlunitx">com.diasparsoftware.htmlunitx</a>
+            </td>
+            <td style="text-align:right">4</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">3</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">7</td>
+            <td style="text-align:right">0.25</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">25%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.java.io">com.diasparsoftware.java.io</a>
+            </td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">2</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">0%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.java.lang">com.diasparsoftware.java.lang</a>
+            </td>
+            <td style="text-align:right">2</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">2</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">2</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">0%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.java.sql">com.diasparsoftware.java.sql</a>
+            </td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">2</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">67%</td>
+            <td style="text-align:right">33%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.java.util">com.diasparsoftware.java.util</a>
+            </td>
+            <td style="text-align:right">10</td>
+            <td style="text-align:right">4</td>
+            <td style="text-align:right">6</td>
+            <td style="text-align:right">4</td>
+            <td style="text-align:right">6</td>
+            <td style="text-align:right">0.4</td>
+            <td style="text-align:right">60%</td>
+            <td style="text-align:right">0%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.javax.jms">com.diasparsoftware.javax.jms</a>
+            </td>
+            <td style="text-align:right">6</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">5</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">5</td>
+            <td style="text-align:right">0.17</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">17%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.javax.servlet">com.diasparsoftware.javax.servlet</a>
+            </td>
+            <td style="text-align:right">3</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">3</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">6</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">0%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.javax.servlet.http">com.diasparsoftware.javax.servlet.http</a>
+            </td>
+            <td style="text-align:right">6</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">6</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">7</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">0%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.jdbc">com.diasparsoftware.jdbc</a>
+            </td>
+            <td style="text-align:right">14</td>
+            <td style="text-align:right">4</td>
+            <td style="text-align:right">10</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">9</td>
+            <td style="text-align:right">0.29</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">29%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.store">com.diasparsoftware.store</a>
+            </td>
+            <td style="text-align:right">2</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">2</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">50%</td>
+            <td style="text-align:right">50%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.util.jboss.testing">com.diasparsoftware.util.jboss.testing</a>
+            </td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">6</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">100%</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#com.diasparsoftware.util.junit">com.diasparsoftware.util.junit</a>
+            </td>
+            <td style="text-align:right">15</td>
+            <td style="text-align:right">1</td>
+            <td style="text-align:right">14</td>
+            <td style="text-align:right">0</td>
+            <td style="text-align:right">7</td>
+            <td style="text-align:right">0.07</td>
+            <td style="text-align:right">100%</td>
+            <td style="text-align:right">7%</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+    <section name="Packages">
+      <p>[
+        <a href="#Summary">summary</a>] [
+        <a href="#Packages">packages</a>] [
+        <a href="#Cycles">cycles</a>] [
+        <a href="#Explanations">explanations</a>]</p>
+      <subsection name="com.diasparsoftware.gsbase">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>4</td>
+              <td>25%</td>
+              <td>80%</td>
+              <td>5%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/gsbase/Stopwatch.html">Stopwatch</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/gsbase/Assert.html">Assert</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/gsbase/StreamUtil.html">StreamUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/gsbase/SystemClockStopwatch.html">SystemClockStopwatch</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.htmlunitx">com.diasparsoftware.htmlunitx</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.gargoylesoftware.base.util">com.gargoylesoftware.base.util</a>
+                  </li>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.htmlunitx">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>7</td>
+              <td>25%</td>
+              <td>100%</td>
+              <td>25%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/htmlunitx/TestableWebResponse.html">TestableWebResponse</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/htmlunitx/FileSystemWebResponse.html">FileSystemWebResponse</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/htmlunitx/InputStreamWebResponse.html">InputStreamWebResponse</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/htmlunitx/TestableWebConnection.html">TestableWebConnection</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.gsbase">com.diasparsoftware.gsbase</a>
+                  </li>
+                  <li>
+                    <a href="#com.gargoylesoftware.htmlunit">com.gargoylesoftware.htmlunit</a>
+                  </li>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.net">java.net</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                  <li>
+                    <a href="#org.apache.commons.httpclient">org.apache.commons.httpclient</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.java.io">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>2</td>
+              <td>0%</td>
+              <td>100%</td>
+              <td>0%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/io/ReaderUtil.html">ReaderUtil</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.java.lang">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>2</td>
+              <td>0%</td>
+              <td>100%</td>
+              <td>0%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/lang/ArrayUtil.html">ArrayUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/lang/MissingParameterException.html">MissingParameterException</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.java.sql">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>2</td>
+              <td>0%</td>
+              <td>67%</td>
+              <td>33%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/sql/PreparedStatementData.html">PreparedStatementData</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.jdbc">com.diasparsoftware.jdbc</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.java.util">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>4</td>
+              <td>6</td>
+              <td>40%</td>
+              <td>60%</td>
+              <td>0%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/ExceptionalClosure.html">ExceptionalClosure</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/ExceptionalMapEntryClosure.html">ExceptionalMapEntryClosure</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/MapEntryClosure.html">MapEntryClosure</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/Selector.html">Selector</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/CalendarUtil.html">CalendarUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/CollectionUtil.html">CollectionUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/CollectionUtil.html">CollectionUtil$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/DateUtil.html">DateUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/Money.html">Money</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/java/util/Quantity.html">Quantity</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.javax.jms">com.diasparsoftware.javax.jms</a>
+                  </li>
+                  <li>
+                    <a href="#com.diasparsoftware.javax.servlet.http">com.diasparsoftware.javax.servlet.http</a>
+                  </li>
+                  <li>
+                    <a href="#com.diasparsoftware.jdbc">com.diasparsoftware.jdbc</a>
+                  </li>
+                  <li>
+                    <a href="#com.diasparsoftware.util.junit">com.diasparsoftware.util.junit</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.math">java.math</a>
+                  </li>
+                  <li>
+                    <a href="#java.text">java.text</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                  <li>
+                    <a href="#org.apache.commons.collections">org.apache.commons.collections</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.javax.jms">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>5</td>
+              <td>17%</td>
+              <td>100%</td>
+              <td>17%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/jms/MapMessageSender.html">MapMessageSender</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/jms/JBossMapMessageSender.html">JBossMapMessageSender</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/jms/JBossMapMessageSender.html">JBossMapMessageSender$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/jms/MessageBuilder.html">MessageBuilder</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/jms/MessageBuilder.html">MessageBuilder$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/jms/MessagingException.html">MessagingException</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.java.util">com.diasparsoftware.java.util</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                  <li>
+                    <a href="#javax.jms">javax.jms</a>
+                  </li>
+                  <li>
+                    <a href="#javax.naming">javax.naming</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.javax.servlet">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>6</td>
+              <td>0%</td>
+              <td>100%</td>
+              <td>0%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/ForwardingServlet.html">ForwardingServlet</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/ServletUtil.html">ServletUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/ServletUtil.html">ServletUtil$1</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                  <li>
+                    <a href="#javax.servlet">javax.servlet</a>
+                  </li>
+                  <li>
+                    <a href="#javax.servlet.http">javax.servlet.http</a>
+                  </li>
+                  <li>
+                    <a href="#org.apache.commons.collections">org.apache.commons.collections</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.javax.servlet.http">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>7</td>
+              <td>0%</td>
+              <td>100%</td>
+              <td>0%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/http/FakeHttpSession.html">FakeHttpSession</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/http/HttpSessionAdapter.html">HttpSessionAdapter</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/http/HttpUtil.html">HttpUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/http/HttpUtil.html">HttpUtil$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/http/HttpUtil.html">HttpUtil$2</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/javax/servlet/http/RequestDispatcherAdapter.html">RequestDispatcherAdapter</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.java.util">com.diasparsoftware.java.util</a>
+                  </li>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                  <li>
+                    <a href="#javax.servlet">javax.servlet</a>
+                  </li>
+                  <li>
+                    <a href="#javax.servlet.http">javax.servlet.http</a>
+                  </li>
+                  <li>
+                    <a href="#org.apache.catalina.connector">org.apache.catalina.connector</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.jdbc">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>9</td>
+              <td>29%</td>
+              <td>100%</td>
+              <td>29%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcQueryBuilder.html">JdbcQueryBuilder</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcRowMapper.html">JdbcRowMapper</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/PreparedStatementBuilder.html">PreparedStatementBuilder</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/PreparedStatementExecuter.html">PreparedStatementExecuter</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcMapper.html">JdbcMapper</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcQueryBuilder.html">JdbcQueryBuilder$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcQueryExecuter.html">JdbcQueryExecuter</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcResourceRegistry.html">JdbcResourceRegistry</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcResourceRegistry.html">JdbcResourceRegistry$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcResourceRegistry.html">JdbcResourceRegistry$2</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcResourceRegistry.html">JdbcResourceRegistry$3</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcUtil.html">JdbcUtil</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/JdbcUtil.html">JdbcUtil$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/jdbc/RowCountRowMapper.html">RowCountRowMapper</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.java.sql">com.diasparsoftware.java.sql</a>
+                  </li>
+                  <li>
+                    <a href="#com.diasparsoftware.java.util">com.diasparsoftware.java.util</a>
+                  </li>
+                  <li>
+                    <a href="#com.diasparsoftware.store">com.diasparsoftware.store</a>
+                  </li>
+                  <li>
+                    <a href="#com.gargoylesoftware.base.util">com.gargoylesoftware.base.util</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.sql">java.sql</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                  <li>
+                    <a href="#org.apache.commons.collections">org.apache.commons.collections</a>
+                  </li>
+                  <li>
+                    <a href="#org.easymock">org.easymock</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.store">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>1</td>
+              <td>0%</td>
+              <td>50%</td>
+              <td>50%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/store/DataMakesNoSenseException.html">DataMakesNoSenseException</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/store/DataStoreException.html">DataStoreException</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.jdbc">com.diasparsoftware.jdbc</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.util.jboss.testing">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>6</td>
+              <td>100%</td>
+              <td>100%</td>
+              <td>100%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/jboss/testing/EntityBeanMetaDataTest.html">EntityBeanMetaDataTest</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#javax.xml.transform">javax.xml.transform</a>
+                  </li>
+                  <li>
+                    <a href="#org.custommonkey.xmlunit">org.custommonkey.xmlunit</a>
+                  </li>
+                  <li>
+                    <a href="#org.w3c.dom">org.w3c.dom</a>
+                  </li>
+                  <li>
+                    <a href="#org.xml.sax">org.xml.sax</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+      <subsection name="com.diasparsoftware.util.junit">
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Afferent Couplings</th>
+              <th>Efferent Couplings</th>
+              <th>Abstractness</th>
+              <th>Instability</th>
+              <th>Distance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>0</td>
+              <td>7</td>
+              <td>7%</td>
+              <td>100%</td>
+              <td>7%</td>
+            </tr>
+          </tbody>
+        </table>
+        <table summary="Packages">
+          <thead>
+            <tr>
+              <th>Abstract Classes</th>
+              <th>Concrete Classes</th>
+              <th>Used by Packages</th>
+              <th>Uses Packages</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/GoldMasterFile.html">GoldMasterFile</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ParameterizedTestSuite.html">ParameterizedTestSuite</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ParameterizedTestSuite.html">ParameterizedTestSuite$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ParameterizedTestSuite.html">ParameterizedTestSuite$2</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$1</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$10</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$2</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$3</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$4</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$5</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$6</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$7</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$8</a>
+                  </li>
+                  <li>
+                    <a href="xref/com/diasparsoftware/util/junit/ValueObjectEqualsTest.html">ValueObjectEqualsTest$9</a>
+                  </li>
+                </ul>
+              </td>
+              <td>
+                <em>None</em>
+              </td>
+              <td>
+                <ul>
+                  <li>
+                    <a href="#com.diasparsoftware.java.util">com.diasparsoftware.java.util</a>
+                  </li>
+                  <li>
+                    <a href="#java.io">java.io</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang">java.lang</a>
+                  </li>
+                  <li>
+                    <a href="#java.lang.reflect">java.lang.reflect</a>
+                  </li>
+                  <li>
+                    <a href="#java.util">java.util</a>
+                  </li>
+                  <li>
+                    <a href="#junit.framework">junit.framework</a>
+                  </li>
+                  <li>
+                    <a href="#org.apache.commons.collections">org.apache.commons.collections</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </subsection>
+    </section>
+    <section name="Cycles">
+      <p>[
+        <a href="#Summary">summary</a>] [
+        <a href="#Packages">packages</a>] [
+        <a href="#Cycles">cycles</a>] [
+        <a href="#Explanations">explanations</a>]</p>
+      <p>There are no cyclic dependencies.</p>
+    </section>
+    <section name="Explanations">
+      <p>[
+        <a href="#Summary">summary</a>] [
+        <a href="#Packages">packages</a>] [
+        <a href="#Cycles">cycles</a>] [
+        <a href="#Explanations">explanations</a>]</p>
+      <p>The following explanations are for quick reference and are lifted directly from the original
+        <a href="http://www.clarkware.com/software/JDepend.html">JDepend documentation</a>.</p>
+      <table summary="Explanations">
+        <thead>
+          <tr>
+            <th>Term</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Number of Classes</td>
+            <td>The number of concrete and abstract classes (and interfaces) in the package is an indicator of the extensibility of the package.</td>
+          </tr>
+          <tr>
+            <td>Afferent Couplings</td>
+            <td>The number of other packages that depend upon classes within the package is an indicator of the package's responsibility.</td>
+          </tr>
+          <tr>
+            <td>Efferent Couplings</td>
+            <td>The number of other packages that the classes in the package depend upon is an indicator of the package's independence.</td>
+          </tr>
+          <tr>
+            <td>Abstractness</td>
+            <td>The ratio of the number of abstract classes (and interfaces) in the analyzed package to the total number of classes in the analyzed package. The range for this metric is 0 to 1, with A=0 indicating a completely concrete package and A=1 indicating a completely abstract package.</td>
+          </tr>
+          <tr>
+            <td>Instability</td>
+            <td>The ratio of efferent coupling (Ce) to total coupling (Ce / (Ce + Ca)). This metric is an indicator of the package's resilience to change. The range for this metric is 0 to 1, with I=0 indicating a completely stable package and I=1 indicating a completely instable package.</td>
+          </tr>
+          <tr>
+            <td>Distance</td>
+            <td>The perpendicular distance of a package from the idealized line A + I = 1. This metric is an indicator of the package's balance between abstractness and stability. A package squarely on the main sequence is optimally balanced with respect to its abstractness and stability. Ideal packages are either completely abstract and stable (x=0, y=1) or completely concrete and instable (x=1, y=0). The range for this metric is 0 to 1, with D=0 indicating a package that is coincident with the main sequence and D=1 indicating a package that is as far from the main sequence as possible.</td>
+          </tr>
+          <tr>
+            <td>Cycles</td>
+            <td>Packages participating in a package dependency cycle are in a deadly embrace with respect to reusability and their release cycle. Package dependency cycles can be easily identified by reviewing the textual reports of dependency cycles. Once these dependency cycles have been identified with JDepend, they can be broken by employing various object-oriented techniques.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </body>
+</document>

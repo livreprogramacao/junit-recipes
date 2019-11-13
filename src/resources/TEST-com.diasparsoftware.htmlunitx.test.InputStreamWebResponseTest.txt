@@ -1,0 +1,9 @@
+Testsuite: com.diasparsoftware.htmlunitx.test.InputStreamWebResponseTest
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.811 sec
+
+------------- Standard Error -----------------
+[Warning] :-1:-1: No character encoding indicator at beginning of document.
+[Warning] :1:14: Element <html> not closed properly.
+[Warning] :-1:-1: No character encoding indicator at beginning of document.
+[Warning] :1:47: Element <html> not closed properly.
+------------- ---------------- ---------------

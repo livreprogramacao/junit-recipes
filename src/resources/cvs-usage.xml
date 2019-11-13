@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- 
+/*
+ * Copyright 2001-2004 The Apache Software Foundation.
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ -->
+
+<document>
+  
+  
+  <properties>
+    <title>CVS</title>
+  </properties>
+
+  <body>
+        
+        
+        
+          
+                    <section name="Anonymous CVS Access">
+        <p>
+          This project's CVS repository can be checked out through anonymous (pserver)
+          CVS with the following instruction set.
+          When prompted for a password for anonymous, simply press the Enter key.
+        </p>
+      
+        <p>
+          cvs -d :pserver:jbrains@diasparsoftware.gotdns.com:/cvsroot/general login
+          <br/>
+          cvs -z3 -d :pserver:jbrains@diasparsoftware.gotdns.com:/cvsroot/general co DiasparsoftToolkit
+        </p>
+
+        <p>
+          Updates from within the module's directory do not need the -d parameter.
+        </p>
+      </section>
+              
+              
+          
+      <section name="Developer CVS Access via SSH">
+
+        <p>
+          Only project developers can access the CVS tree via this method.
+          SSH1 must be installed on your client machine. Substitute   
+          <b>name</b> with the proper value. Enter your site password when prompted.
+        </p>
+
+        <p>
+          export CVS_RSH=ssh
+          <br/>
+          cvs -z3 -d :pserver:username@diasparsoftware.gotdns.com:/cvsroot/general co DiasparsoftToolkit
+        </p>
+      
+        <p>
+          Remember to replace 'username' with your actual username on diasparsoftware.gotdns.com.
+        </p>
+
+      </section>
+              
+      
+      </body>
+
+</document>
+

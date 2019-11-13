@@ -1,0 +1,3 @@
+Testsuite: com.diasparsoftware.java.util.test.GregorianCalendarLearningTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.04 sec
+

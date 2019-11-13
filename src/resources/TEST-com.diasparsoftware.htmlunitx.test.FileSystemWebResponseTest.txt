@@ -1,0 +1,3 @@
+Testsuite: com.diasparsoftware.htmlunitx.test.FileSystemWebResponseTest
+Tests run: 11, Failures: 0, Errors: 0, Time elapsed: 0.19 sec
+

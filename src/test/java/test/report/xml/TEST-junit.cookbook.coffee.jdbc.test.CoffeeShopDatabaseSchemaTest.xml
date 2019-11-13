@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="2" failures="0" name="junit.cookbook.coffee.jdbc.test.CoffeeShopDatabaseSchemaTest" tests="2" time="0.551">
+  <properties>
+    <property name="java.vendor" value="Sun Microsystems Inc."></property>
+    <property name="os.name" value="Windows 2000"></property>
+    <property name="sun.boot.class.path" value="D:\j2sdk1.4.2\jre\lib\endorsed\xalan.jar;D:\j2sdk1.4.2\jre\lib\rt.jar;D:\j2sdk1.4.2\jre\lib\i18n.jar;D:\j2sdk1.4.2\jre\lib\sunrsasign.jar;D:\j2sdk1.4.2\jre\lib\jsse.jar;D:\j2sdk1.4.2\jre\lib\jce.jar;D:\j2sdk1.4.2\jre\lib\charsets.jar;D:\j2sdk1.4.2\jre\classes"></property>
+    <property name="eclipse.running" value="true"></property>
+    <property name="osgi.ws" value="win32"></property>
+    <property name="sun.java2d.fontpath" value=""></property>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."></property>
+    <property name="ant.home" value="D:\apache-ant-1.5.4"></property>
+    <property name="java.runtime.version" value="1.4.2-b28"></property>
+    <property name="test.report" value="test/report"></property>
+    <property name="osgi.instance.area" value="d:\home\jbrains\workspace\v3.0\jbrains\.metadata\bundles"></property>
+    <property name="user.name" value="jbrains"></property>
+    <property name="osgi.frameworkClassPath" value="core.jar, console.jar, osgi.jar, resolver.jar, defaultAdaptor.jar, eclipseAdaptor.jar"></property>
+    <property name="org.osgi.framework.language" value="en"></property>
+    <property name="user.language" value="en"></property>
+    <property name="org.osgi.framework.processor" value="x86"></property>
+    <property name="sun.boot.library.path" value="D:\j2sdk1.4.2\jre\bin"></property>
+    <property name="osgi.manifest.cache" value="d:\eclipse-3.0M6\eclipse/.config/manifests"></property>
+    <property name="org.eclipse.osgi.framework.internal.core.impltype" value=""></property>
+    <property name="ant.project.name" value="Testing JDBC Examples"></property>
+    <property name="eof" value="eof"></property>
+    <property name="java.version" value="1.4.2"></property>
+    <property name="org.osgi.framework.os.name" value="Windows 2000"></property>
+    <property name="version" value="1.0"></property>
+    <property name="user.timezone" value=""></property>
+    <property name="sun.arch.data.model" value="32"></property>
+    <property name="osgi.bundles" value="org.eclipse.osgi.services, org.eclipse.osgi.util, org.eclipse.core.runtime@2, org.eclipse.update.configurator@3"></property>
+    <property name="java.endorsed.dirs" value="D:\j2sdk1.4.2\jre\lib\endorsed"></property>
+    <property name="sun.cpu.isalist" value="pentium i486 i386"></property>
+    <property name="eclipse.application" value="org.eclipse.ui.ide.workbench"></property>
+    <property name="file.encoding.pkg" value="sun.io"></property>
+    <property name="org.osgi.framework.vendor" value="Eclipse"></property>
+    <property name="osgi.installLocation" value="file:d:/eclipse-3.0M6/eclipse/"></property>
+    <property name="file.separator" value="\"></property>
+    <property name="java.specification.name" value="Java Platform API Specification"></property>
+    <property name="java.class.version" value="48.0"></property>
+    <property name="user.country" value="US"></property>
+    <property name="java.home" value="D:\j2sdk1.4.2\jre"></property>
+    <property name="osgi.os" value="win32"></property>
+    <property name="java.vm.info" value="mixed mode"></property>
+    <property name="osgi.splashLocation" value="d:\eclipse-3.0M6\eclipse\plugins\org.eclipse.platform_3.0.0\splash.bmp"></property>
+    <property name="ant.file" value="d:\home\jbrains\workspace\v3.0\jbrains\TestJdbc\build.xml"></property>
+    <property name="os.version" value="5.0"></property>
+    <property name="osgi.arch" value="x86"></property>
+    <property name="org.eclipse.osgi.framework.internal.core.addresslength" value="32"></property>
+    <property name="path.separator" value=";"></property>
+    <property name="eclipse.home" value="d:/eclipse-3.0M6/eclipse"></property>
+    <property name="java.vm.version" value="1.4.2-b28"></property>
+    <property name="java.util.prefs.PreferencesFactory" value="java.util.prefs.WindowsPreferencesFactory"></property>
+    <property name="user.variant" value=""></property>
+    <property name="vendor-url" value="http://xml.apache.org/xalan-j"></property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"></property>
+    <property name="vendor" value="Apache Software Foundation"></property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"></property>
+    <property name="org.osgi.framework.version" value="1.2.0"></property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"></property>
+    <property name="osgi.framework" value="file:d:/eclipse-3.0M6/eclipse/plugins/org.eclipse.osgi_3.0.0/"></property>
+    <property name="user.home" value="C:\Documents and Settings\jbrains"></property>
+    <property name="org.eclipse.ant.ui.ATTR_ANT_PROCESS_ID" value="1073941053040"></property>
+    <property name="osgi.splashPath" value="platform:/base/plugins/org.eclipse.platform"></property>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."></property>
+    <property name="osgi.nl" value="en_US"></property>
+    <property name="org.xml.sax.driver" value="org.apache.xerces.parsers.SAXParser"></property>
+    <property name="java.library.path" value="D:\j2sdk1.4.2\jre\bin;.;C:\WINNT\system32;C:\WINNT;d:\putty;d:\aspectj1.1\bin;d:\maven-1.0-beta-10\bin;d:\apache-ant-1.5.4\bin;d:\ruby-1.67\bin;D:\j2sdk1.4.2\bin;C:\WINNT\system32;C:\WINNT;C:\WINNT\System32\Wbem;d:\cvs;D:\mimer-9.2"></property>
+    <property name="java.vendor.url" value="http://java.sun.com/"></property>
+    <property name="org.osgi.framework.os.version" value="5.0"></property>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."></property>
+    <property name="java.runtime.name" value="Java(TM) 2 Runtime Environment, Standard Edition"></property>
+    <property name="java.class.path" value="D:\home\jbrains\workspace\v3.0\jbrains\TestJdbc\test\classes;D:\home\jbrains\workspace\v3.0\jbrains\TestJdbc\classes;D:\home\jbrains\workspace\v3.0\jbrains\Diasparsoft Toolkit\classes;D:\junit3.8.1\junit.jar;D:\mimer-jdbc-2.12\mimjdbc2.jar;D:\commons-collections-2.1\commons-collections.jar;D:\mockobjects-0.09\dist\mockobjects-alt-jdk1.3-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-alt-jdk1.3-j2ee1.2-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-alt-jdk1.3-j2ee1.3-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-alt-jdk1.4-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-alt-jdk1.4-j2ee1.2-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-alt-jdk1.4-j2ee1.3-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-core-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-jdk1.3-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-jdk1.3-j2ee1.2-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-jdk1.3-j2ee1.3-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-jdk1.4-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-jdk1.4-j2ee1.2-0.09.jar;D:\mockobjects-0.09\dist\mockobjects-jdk1.4-j2ee1.3-0.09.jar;D:\apache-ant-1.5.4\lib\junit-3.8.1.jar;D:\apache-ant-1.5.4\lib\ant.jar;D:\apache-ant-1.5.4\lib\optional.jar"></property>
+    <property name="ant.version" value="Apache Ant version 1.5.4 compiled on August 12 2003"></property>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"></property>
+    <property name="org.eclipse.osgi.framework.internal.core.FrameworkBeginningStartLevel" value="1"></property>
+    <property name="java.vm.specification.version" value="1.0"></property>
+    <property name="sun.os.patch.level" value="Service Pack 4"></property>
+    <property name="sun.cpu.endian" value="little"></property>
+    <property name="java.io.tmpdir" value="C:\DOCUME~1\jbrains\LOCALS~1\Temp\"></property>
+    <property name="org.eclipse.jdt.debug.ui.scrapbookActive" value="false"></property>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"></property>
+    <property name="org.eclipse.osgi.framework.internal.core.version" value="3.6.0"></property>
+    <property name="os.arch" value="x86"></property>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"></property>
+    <property name="java.ext.dirs" value="D:\j2sdk1.4.2\jre\lib\ext"></property>
+    <property name="org.eclipse.osgi.framework.internal.core.vm" value="Java HotSpot(TM) Client VM"></property>
+    <property name="user.dir" value="D:\eclipse-3.0M6\eclipse"></property>
+    <property name="org.eclipse.osgi.framework.defaultadaptor.bundledir" value="d:\home\jbrains\workspace\v3.0\jbrains\.metadata\bundles"></property>
+    <property name="eclipse.debug.startupTime" value="1073921792515"></property>
+    <property name="line.separator" value="
+"></property>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"></property>
+    <property name="org.eclipse.osgi.framework.internal.core.endian" value="le"></property>
+    <property name="basedir" value="D:\home\jbrains\workspace\v3.0\jbrains\TestJdbc"></property>
+    <property name="ant.java.version" value="1.4"></property>
+    <property name="file.encoding" value="Cp1252"></property>
+    <property name="java.specification.version" value="1.4"></property>
+    <property name="org.osgi.framework.executionenvironment" value=""></property>
+    <property name="osgi.configuration.area" value="d:\eclipse-3.0M6\eclipse/.config"></property>
+  </properties>
+  <testcase name="testTablesAndColumnsExist" time="0.08">
+    <error message="Login failure" type="java.sql.SQLException">java.sql.SQLException: Login failure
+	at com.mimer.jdbc.Connection.a(Unknown Source)
+	at com.mimer.jdbc.Connection.if(Unknown Source)
+	at com.mimer.jdbc.Connection.a(Unknown Source)
+	at com.mimer.jdbc.Connection.&lt;init&gt;(Unknown Source)
+	at com.mimer.jdbc.Connection.&lt;init&gt;(Unknown Source)
+	at com.mimer.jdbc.MimerDataSource.getConnection(Unknown Source)
+	at com.mimer.jdbc.MimerDataSource.getConnection(Unknown Source)
+	at junit.cookbook.coffee.jdbc.test.CoffeeShopDatabaseFixture.setUp(CoffeeShopDatabaseFixture.java:20)
+</error>
+  </testcase>
+  <testcase name="testCoffeeNameUniquenessConstraint" time="0.02">
+    <error message="Login failure" type="java.sql.SQLException">java.sql.SQLException: Login failure
+	at com.mimer.jdbc.Connection.a(Unknown Source)
+	at com.mimer.jdbc.Connection.if(Unknown Source)
+	at com.mimer.jdbc.Connection.a(Unknown Source)
+	at com.mimer.jdbc.Connection.&lt;init&gt;(Unknown Source)
+	at com.mimer.jdbc.Connection.&lt;init&gt;(Unknown Source)
+	at com.mimer.jdbc.MimerDataSource.getConnection(Unknown Source)
+	at com.mimer.jdbc.MimerDataSource.getConnection(Unknown Source)
+	at junit.cookbook.coffee.jdbc.test.CoffeeShopDatabaseFixture.setUp(CoffeeShopDatabaseFixture.java:20)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,1168 @@
+Starting audit...
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\package.html:0: Missing package documentation file.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Assert.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementBuilder.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:0: File does not end with a newline.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Assert.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Assert.java:3: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Assert.java:13: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Assert.java:17:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Assert.java:22: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Assert.java:27: Unused @throws tag for 'DetailedNullPointerException'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:11: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:13: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:26: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:27: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:33: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:40: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:54: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:55: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\Stopwatch.java:57: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:9: Using the '.*' form of import should be avoided - java.io.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:10: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:14: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:18:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:23: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:24: Unused @param tag for 'stream'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:29:45: Parameter characterStream should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:29:57: Expected @param tag for 'characterStream'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:40: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:52: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:53: Unused @param tag for 'stream'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:58:44: Parameter byteStream should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:58:56: Expected @param tag for 'byteStream'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:81:13: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:95: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:98: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:106: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:107:9: Parameter byteSegments should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:108:9: Parameter eachSegmentButLastLength should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:109:9: Parameter lastSegmentLength should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:111: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:146:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:147:9: Parameter byteSegment should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\StreamUtil.java:148:9: Parameter toSize should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:10: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:13: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:18:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:19:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:21:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:22:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:24:5: Method 'start' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:24:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:29:5: Method 'stop' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:29:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:34:5: Method 'reset' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:34:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:39:5: Method 'getLastTime' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:39:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\gsbase\SystemClockStopwatch.java:42:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\FileSystemWebResponse.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\FileSystemWebResponse.java:3: Using the '.*' form of import should be avoided - java.io.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\FileSystemWebResponse.java:6: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\FileSystemWebResponse.java:7:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\FileSystemWebResponse.java:7:34: Parameter url should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\FileSystemWebResponse.java:7:43: Parameter contentFile should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\FileSystemWebResponse.java:9: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:3: Using the '.*' form of import should be avoided - java.io.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:8: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:11:35: Parameter url should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:12:9: Parameter contentAsStream should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:12:21: 'contentAsStream' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:19:5: Method 'getContentAsString' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:19:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:24:5: Method 'getContentAsStream' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:24:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:30:5: Method 'getLoadTimeInMilliSeconds' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:30:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:34:5: Method 'getResponseBody' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:34:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:42:5: Method 'getContentAsBytes' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:42:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:43:16: Redundant throws: 'UnsupportedEncodingException' is subclass of 'IOException'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:48:5: Method 'equals' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:48:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:48:27: Parameter other should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:59:5: Method 'hashCode' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:59:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:63:5: Method 'toString' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:63:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\InputStreamWebResponse.java:64: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:5: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:9: Using the '.*' form of import should be avoided - com.gargoylesoftware.htmlunit.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:11: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:12:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:14:34: Parameter client should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:18:5: Method 'getResponse' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:18:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:18:36: Parameter url should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:19:9: Parameter submitMethod should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:19:36: Parameter parameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:20:9: Parameter requestHeaders should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:25:5: Method 'setResponse' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:25:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:25:29: Parameter response should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:29:5: Method 'getStateForUrl' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:29:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebConnection.java:29:37: Parameter url should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:6: Using the '.*' form of import should be avoided - com.diasparsoftware.gsbase.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:10: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:11:30: '200' is a magic number.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:12:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:15:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:16:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:18:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:19: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:20:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:20:32: Parameter url should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:20:36: 'url' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:24:5: Method 'getUrl' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:24:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:28:5: Method 'getStatusCode' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:28:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:31: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:32:5: Method 'setStatusCode' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:32:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:32:31: Parameter statusCode should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:32:35: 'statusCode' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:36:5: Method 'getStatusMessage' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:36:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:40:5: Method 'setStatusMessage' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:40:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:40:34: Parameter statusMessage should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:40:41: 'statusMessage' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:44:5: Method 'getResponseHeaderValue' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:44:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:44:42: Parameter headerName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:48:5: Method 'addResponseHeaderValue' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:48:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:48:40: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:48:53: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:52:5: Method 'getContentCharSet' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:52:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:56:5: Method 'setContentCharSet' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:56:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:56:35: Parameter contentCharSet should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:56:42: 'contentCharSet' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:60:5: Method 'getContentType' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:60:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:64:5: Method 'setContentType' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:64:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:64:32: Parameter contentType should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:64:39: 'contentType' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:67: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:68:5: Method 'getStopwatch' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:68:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:72:5: Method 'setStopwatch' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:72:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:72:30: Parameter stopwatch should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\htmlunitx\TestableWebResponse.java:72:40: 'stopwatch' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:3: Using the '.*' form of import should be avoided - java.io.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:5:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:9: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:15: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:15:45: Parameter reader should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\io\ReaderUtil.java:15:52: Expected @param tag for 'reader'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:5:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:8:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:9: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:9:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:10:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:11:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:12:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:13: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:13:29: Parameter entries should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:13:40: Expected @param tag for 'entries'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:25:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:26:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:27: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:27:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:28:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:29:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:30:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:31: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:31:29: Parameter entries should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:31:38: Expected @param tag for 'entries'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:36:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:37:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:38:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:39: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:39:38: Parameter entries should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\ArrayUtil.java:39:49: Expected @param tag for 'entries'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:3: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:4:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:6:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:6:38: Parameter parameterName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:6:45: 'parameterName' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:11:5: Method 'getParameterName' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\lang\MissingParameterException.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:6:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:6:19: Variable 'sqlString' must be private and have accessor methods.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:7:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:7:17: Variable 'parameters' must be private and have accessor methods.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:13: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:14:34: Parameter sqlString should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:14:41: 'sqlString' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:14:52: Parameter parameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:14:57: 'parameters' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:19:5: Method 'equals' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:19:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:19:27: Parameter other should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:24:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:30:5: Method 'hashCode' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:30:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:34:5: Method 'toString' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\sql\PreparedStatementData.java:34:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:6: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:6:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:8:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:9:9: Parameter year should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:10:9: Parameter month should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:11:9: Parameter day should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:12:9: Parameter hour should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:13:9: Parameter minute should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:14:9: Parameter second should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:15:9: Parameter millisecond should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CalendarUtil.java:16: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:5: Using the '.*' form of import should be avoided - org.apache.commons.collections.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:7: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:7:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:10:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:11:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:12: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:12:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:13:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:14:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:15:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:16:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:17:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:18:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:19:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:20: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:21:9: Parameter collection should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:22:9: Parameter predicate should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:28:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:29:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:30: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:30:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:31:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:32:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:33:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:34:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:35:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:35:23: Extra HTML tag found: </code> in here if we ignore case?"
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:36:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:37: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:38:9: Parameter stringCollection should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:43:37: Parameter parameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:51:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:52:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:53: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:53:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:54:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:55: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:55:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:56:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:57:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:58:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:60:9: Parameter collection should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:60:20: Expected @param tag for 'collection'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:61:9: Parameter closure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:61:28: Expected @param tag for 'closure'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:67:13: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:68:39: Must have at least one statement.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:74:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:75: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:75:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:76:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:77:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:78:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:79:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:81:9: Parameter collection should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:81:20: Expected @param tag for 'collection'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:82:9: Parameter closure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:82:28: Expected @param tag for 'closure'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:83:16: Expected @throws tag for 'Exception'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:92:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:93:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:94: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:94:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:95:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:96:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:97:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:98:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:100:9: Parameter collection should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:100:20: Expected @param tag for 'collection'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:101:9: Parameter closure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:101:17: Expected @param tag for 'closure'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:110:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:111:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:112: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:112:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:113:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:114:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:115:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:116:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:117:34: Parameter map should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:117:38: Expected @param tag for 'map'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:117:43: Parameter closure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:117:59: Expected @param tag for 'closure'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:122:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:123:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:124: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:124:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:125:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:126:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:127:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:128:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:130:9: Parameter map should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:130:13: Expected @param tag for 'map'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:131:9: Parameter closure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:131:36: Expected @param tag for 'closure'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:132:16: Expected @throws tag for 'Exception'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:141: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:146: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:146:33: Parameter set should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:146:37: Expected @param tag for 'set'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:146:42: Parameter selector should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:146:51: Expected @param tag for 'selector'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:149: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\CollectionUtil.java:152: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:5:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:6:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:8:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:9:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:10:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:11: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:11:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:12:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:13:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:14:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:15:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:16:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:17:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:18:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:19:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:20: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:20:33: Parameter year should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:20:43: Parameter month should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:20:54: Parameter day should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:34:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:35:9: Parameter year should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:36:9: Parameter month should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:37:9: Parameter day should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:38:9: Parameter hour should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:39:9: Parameter minute should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:40:9: Parameter second should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:53:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:53:32: Parameter date should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:58:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:58:31: Parameter date should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:64:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:65:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:66: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:66:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:67:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:68:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:69:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:70:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:71:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:72:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:73:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:74: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:74:39: Parameter date should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:74:50: Parameter daysLater should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:82:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:83:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:84:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:85: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:85:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:86:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:87:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:88:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:89:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:90: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:90:34: Parameter dateOfBirth should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:90:39: Expected @param tag for 'dateOfBirth'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:90:52: Parameter futureDate should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:90:57: Expected @param tag for 'futureDate'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\DateUtil.java:107:57: Avoid inline conditionals.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalClosure.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalClosure.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:8:5: Method 'execute' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:8:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:8:27: Parameter parameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:14:42: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\ExceptionalMapEntryClosure.java:14:54: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\MapEntryClosure.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\MapEntryClosure.java:7: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\MapEntryClosure.java:8:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\MapEntryClosure.java:8:31: Parameter each should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\MapEntryClosure.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\MapEntryClosure.java:13:39: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\MapEntryClosure.java:13:51: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:4: Using the '.*' form of import should be avoided - java.text.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:5: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:7: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:8:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:8:25: Name 'ZERO' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:8:25: Variable 'ZERO' must be private and have accessor methods.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:10:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:10:31: Parameter cents should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:14:33: Parameter dollars should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:18:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:18:33: Parameter dollars should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:18:46: Parameter cents should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:22:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:22:31: Parameter moneyAsString should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:25:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:32:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:32:37: Parameter moneyAsString should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:40:41: '100' is a magic number.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:43:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:45:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:49:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:49:18: Parameter cents should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:49:22: 'cents' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:53:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:53:18: Parameter dollars should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:53:31: Parameter cents should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:53:35: 'cents' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:54:14: '100' is a magic number.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:57:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:57:18: Parameter moneyAsString should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:61:5: Method 'add' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:61:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:61:22: Parameter augend should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:65:5: Method 'clone' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:65:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:69:5: Method 'equals' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:69:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:69:27: Parameter other should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:77:5: Method 'hashCode' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:77:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:81:5: Method 'inCents' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:81:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:85:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:86:39: '100.0d' is a magic number.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:89:5: Method 'isValid' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:89:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:93:5: Method 'multipliedBy' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:93:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:93:31: Parameter times should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:97:5: Method 'multipliedBy' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:97:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:97:31: Parameter times should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:101:5: Method 'negate' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:101:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:105:5: Method 'roundToNearestDollar' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:105:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:109:5: Method 'split' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:109:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:109:23: Parameter nWays should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:118:13: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:129:5: Method 'toString' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:129:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:133:5: Method 'valueInCentsIs' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:133:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:133:35: Parameter expected should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:137:5: Method 'compareTo' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:137:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Money.java:137:26: Parameter other should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:6: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:7:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:7:27: Name 'NULL_UNIT_OF_MEASURE' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:8:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:8:28: Name 'ZERO' must match pattern '^[a-z][a-zA-Z0-9]*$'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:8:28: Variable 'ZERO' must be private and have accessor methods.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:10:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:10:26: Variable 'magnitude' must be private and have accessor methods.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:11:22: Variable 'unitOfMeasure' must be private and have accessor methods.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:13:21: Parameter magnitude should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:13:29: 'magnitude' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:13:40: Parameter unitOfMeasure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:13:47: 'unitOfMeasure' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:17:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:17:21: Parameter magnitude should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:17:32: 'magnitude' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:17:43: Parameter unitOfMeasure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:17:50: 'unitOfMeasure' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:30: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:30:5: Method 'clone' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:33: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:34:5: Method 'add' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:34:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:34:25: Parameter that should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:35: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:35:59: Expression can be simplified.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:45: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:49:5: Method 'equals' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:49:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:49:27: Parameter other should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:54:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:59: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:60:5: Method 'hashCode' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:60:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:64:5: Method 'toString' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:64:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:68:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Quantity.java:68:35: Parameter unitOfMeasure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Selector.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Selector.java:4: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\java\util\Selector.java:5:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:5: Using the '.*' form of import should be avoided - javax.jms.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:6: Using the '.*' form of import should be avoided - javax.naming.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:8: Using the '.*' form of import should be avoided - com.diasparsoftware.java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:10: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:14:5: Method 'sendMapMessage' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:15:9: Parameter destinationQueueName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:16:9: Parameter messageContent should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:47:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:50:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:56:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:57:9: Parameter messageContent should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:62:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:62:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\JBossMapMessageSender.java:65:17: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MapMessageSender.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MapMessageSender.java:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MapMessageSender.java:6:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MapMessageSender.java:9:16: Redundant throws: 'MessagingException' is unchecked exception.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:5: Using the '.*' form of import should be avoided - javax.jms.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:7: Using the '.*' form of import should be avoided - com.diasparsoftware.java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:9: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:10:5: Method 'buildMapMessage' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:10:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:12:9: Parameter messageContent should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:20:45: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:20:57: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessageBuilder.java:26:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessagingException.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessagingException.java:3: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessagingException.java:4:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessagingException.java:4:31: Parameter message should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\jms\MessagingException.java:4:47: Parameter cause should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:6: Using the '.*' form of import should be avoided - javax.servlet.http.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:12: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:14: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:18: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:21: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:23: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:26: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:28: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:31: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:35: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:38: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:41: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:43: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:46:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:48:5: Method 'doGet' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:48:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:49:9: Parameter request should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:50:9: Parameter response should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:56:5: Method 'doPost' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:56:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:57:9: Parameter request should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:58:9: Parameter response should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:64:5: Method 'handleRequest' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:64:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:65:9: Parameter request should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:66:9: Parameter response should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:78: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:81:5: Method 'setForwardUri' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:81:31: Parameter forwardUri should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:81:38: 'forwardUri' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:81:38: Expected @param tag for 'forwardUri'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:85:5: Method 'getForwardUri' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ForwardingServlet.java:85:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:6: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:7:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:9:28: Parameter attributes should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:9:32: 'attributes' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:12: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:13:5: Method 'getAttribute' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:13:32: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:16: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:17:5: Method 'getAttributeNames' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:17:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:20: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:21:5: Method 'setAttribute' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:21:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:21:30: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\FakeHttpSession.java:21:43: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:6: Using the '.*' form of import should be avoided - javax.servlet.http.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:8: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:9:5: Method 'getCreationTime' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:13:5: Method 'getId' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:17:5: Method 'getLastAccessedTime' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:17:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:21:5: Method 'getServletContext' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:21:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:25:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:25:40: Parameter maxInactiveInterval should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:28:5: Method 'getMaxInactiveInterval' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:28:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:32:5: Method 'getSessionContext' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:32:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:36:5: Method 'getAttribute' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:36:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:36:32: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:40:5: Method 'getValue' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:40:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:40:28: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:44:5: Method 'getAttributeNames' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:44:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:48:5: Method 'getValueNames' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:48:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:52:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:52:30: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:52:43: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:55:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:55:26: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:55:39: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:58:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:58:33: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:61:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:61:29: Parameter name should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:64:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:67:5: Method 'isNew' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpSessionAdapter.java:67:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:6: Using the '.*' form of import should be avoided - javax.servlet.http.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:10: Using the '.*' form of import should be avoided - com.diasparsoftware.java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:12: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:12:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:14:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:15:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:16: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:16:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:17:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:18:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:19:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:20:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:21: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:22:9: Parameter uri should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:22:16: Expected @param tag for 'uri'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:23:9: Parameter parameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:23:13: Expected @param tag for 'parameters'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:28:43: Parameter create should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:32:59: Parameter path should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:41:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:41:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:52: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:52:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:53: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:53:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:54:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:55:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:56:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:57:42: Parameter session should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:57:54: Expected @param tag for 'session'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\HttpUtil.java:68: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:5: Using the '.*' form of import should be avoided - javax.servlet.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:7: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:8:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:9:9: Parameter request should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:10:9: Parameter response should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:15:9: Parameter request should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\http\RequestDispatcherAdapter.java:16:9: Parameter response should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:7: Using the '.*' form of import should be avoided - org.apache.commons.collections.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:9: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:9:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:14: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:20:47: Parameter request should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\javax\servlet\ServletUtil.java:24:33: Parameter eachMapEntryAsObject should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:3: Using the '.*' form of import should be avoided - java.sql.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:8: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:14: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20:5: Method 'getDate' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20:25: Parameter resultSet should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20:35: Expected @param tag for 'resultSet'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20:46: Parameter columnName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20:53: Expected @param tag for 'columnName'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:20:72: Expected @throws tag for 'SQLException'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcMapper.java:21: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:5: Using the '.*' form of import should be avoided - org.apache.commons.collections.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:10: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:12:13: Parameter statementName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:12:35: Parameter domainParameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:13:41: Parameter statementName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:16:5: Method 'supportsStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:16:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:16:38: Parameter statementName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:20:5: Method 'getPreparedStatementData' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:20:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:20:59: Parameter statementName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:21:13: Parameter domainParameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:25: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:29: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:33:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:40:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:40:48: Parameter tableName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:41:13: Parameter orderedColumnNames should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:57:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:57:48: Parameter tableName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:58:13: Parameter orderedColumnNames should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:58:38: Parameter whereClause should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:59: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryBuilder.java:62:45: Parameter input should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:3: Using the '.*' form of import should be avoided - java.sql.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:4: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:9: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:10: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:10:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:12:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:14:30: Parameter connection should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:14:41: 'connection' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:18:5: Method 'executeDeleteStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:18:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:19: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:19:13: Parameter preparedStatementData should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:19:65: Redundant throws: 'DataStoreException' is unchecked exception.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:38:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:41:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:44: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:46:13: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:47:42: Must have at least one statement.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:53:5: Method 'executeUpdateStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:53:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:54:13: Parameter preparedStatementData should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:72:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:75:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:78: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:80:13: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:81:42: Must have at least one statement.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:90: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:90:5: Method 'executeInsertStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:90:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:90:39: Parameter insertStatementData should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:100:32: ';' is followed by whitespace.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:109:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:112:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:115: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:117:13: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:118:42: Must have at least one statement.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:123:5: Method 'executeSelectStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:123:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:124: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:124:13: Parameter selectStatementData should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:124:56: Parameter rowMapper should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:144:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:147:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:150: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:153: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:155:13: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:156:42: Must have at least one statement.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:164:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:165:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:166:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:167: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:167:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:168:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:169:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:170:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:171:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:172:5: Method 'executeCountStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:172:38: Parameter countStatementData should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:181:5: Method 'executeSingleRowSelectStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:181:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:182:13: Parameter selectStatementData should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:183:13: Parameter simpleMapper should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:188:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:194:5: Method 'commit' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:194:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcQueryExecuter.java:197:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:3: Using the '.*' form of import should be avoided - java.sql.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:4: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:6: Using the '.*' form of import should be avoided - com.diasparsoftware.java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:11: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:15:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:16:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:17:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:19:5: Method 'registerStatement' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:19:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:19:35: Parameter statement should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:23:5: Method 'registerResultSet' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:23:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:23:35: Parameter resultSet should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:27:5: Method 'registerConnection' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:27:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:27:36: Parameter connection should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:31:5: Method 'cleanUp' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:31:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:37:35: Parameter each should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:48:35: Parameter each should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcResourceRegistry.java:59:35: Parameter each should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:3: Using the '.*' form of import should be avoided - java.sql.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:9: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:10:1: '{' should be on the previous line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:13: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:18: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:18:45: Parameter row should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:18:55: Expected @param tag for 'row'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcRowMapper.java:19:16: Expected @throws tag for 'SQLException'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:3: Using the '.*' form of import should be avoided - java.sql.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:4: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:9: Using the '.*' form of import should be avoided - com.diasparsoftware.java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:11: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:11:1: Utility classes should not have a public or default constructor.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:14:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:15: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:15:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:16:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:17: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:17:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:18:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:19: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:19:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:20: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:20:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:21:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:22:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:23:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:24:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:25:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:26:41: Parameter resultSet should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:26:51: Expected @param tag for 'resultSet'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:27:20: Expected @throws tag for 'SQLException'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:58:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:59:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:60: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:60:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:61:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:62:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:63:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:64:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:65:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:66: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:66:43: Parameter year should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:66:47: Expected @param tag for 'year'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:66:53: Parameter month should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:66:57: Expected @param tag for 'month'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:66:64: Parameter day should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:66:68: Expected @param tag for 'day'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:73:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:73:43: Parameter date should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:78:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:79:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:80: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:80:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:81:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:82:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:83:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:84:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:85:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:86:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:87:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:88:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:89:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:90: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:90:43: Parameter year should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:90:47: Expected @param tag for 'year'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:90:53: Parameter month should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:90:57: Expected @param tag for 'month'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:90:64: Parameter day should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:90:68: Expected @param tag for 'day'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:13: Parameter hour should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:17: Expected @param tag for 'hour'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:23: Parameter minute should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:27: Expected @param tag for 'minute'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:35: Parameter second should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:39: Expected @param tag for 'second'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:47: Parameter millisecond should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:91:51: Expected @param tag for 'millisecond'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:105:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:105:39: Parameter timestamp should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:109:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:110: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:110:13: Parameter preparedStatement should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:110:50: Parameter parameters should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:113:62: ';' is followed by whitespace.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:120:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:120:49: Parameter rowData should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:126:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:126:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:131:17: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:142:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:142:42: Parameter year should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:142:52: Parameter month should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\JdbcUtil.java:142:63: Parameter day should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementBuilder.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementBuilder.java:7: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementBuilder.java:8:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:8: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:10:20: Redundant throws: 'DataStoreException' is unchecked exception.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:12:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:16:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:17:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:18:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:19: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:19:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:20:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:21:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:22:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:23:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\PreparedStatementExecuter.java:25:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\RowCountRowMapper.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\RowCountRowMapper.java:3: Using the '.*' form of import should be avoided - java.sql.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\RowCountRowMapper.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\RowCountRowMapper.java:10: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\RowCountRowMapper.java:11:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\jdbc\RowCountRowMapper.java:11:36: Parameter row should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataMakesNoSenseException.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataMakesNoSenseException.java:3: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataMakesNoSenseException.java:4:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataMakesNoSenseException.java:4:38: Parameter description should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:4: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:5:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:9:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:9:31: Parameter cause should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:13:31: Parameter message should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:13:47: Parameter cause should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:17:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\store\DataStoreException.java:17:31: Parameter message should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:7: Using the '.*' form of import should be avoided - org.custommonkey.xmlunit.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:11: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:12:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:14:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:16:5: Method 'setUp' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:16:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:20:5: Method 'setMetaDataFilename' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:20:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:20:40: Parameter metaDataFilename should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:20:47: 'metaDataFilename' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:24:5: Method 'setEntityBeanUnderTest' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:24:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:24:43: Parameter entityBeanName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:24:50: 'entityBeanName' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:28:5: Method 'parseMetaData' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:28:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:36:5: Method 'assertBeanMappedToTable' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:36:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:36:44: Parameter expectedTableName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:45:5: Method 'assertFieldMappedToColumn' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:45:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:46:9: Parameter fieldName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:47:9: Parameter expectedColumnName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:56:5: Method 'assertDefaultDataSource' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:56:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:56:44: Parameter expectedDataSourceJndiName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:65:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:66:9: Parameter entityBeanName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:66:16: 'entityBeanName' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:67:9: Parameter fieldName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:74:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:75:9: Parameter entityBeanName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:75:16: 'entityBeanName' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:76:9: Parameter relativeXpath should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:81:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:81:39: Parameter entityBeanName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\jboss\testing\EntityBeanMetaDataTest.java:81:46: 'entityBeanName' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:3: Using the '.*' form of import should be avoided - java.io.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:15:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:15:27: Parameter directory should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:15:45: Parameter file should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:15:52: 'file' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:19:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:19:27: Parameter file should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:19:32: 'file' hides a field.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:25: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:29:5: Method 'write' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:29:23: Parameter content should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:29:46: Expected @throws tag for 'IOException'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:38: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:42:5: Method 'check' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:42:23: Parameter actualContent should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:42:30: Expected @param tag for 'actualContent'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:43:16: Expected @throws tag for 'IOException'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\GoldMasterFile.java:56: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:3: Using the '.*' form of import should be avoided - java.lang.reflect.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:4: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:6: Using the '.*' form of import should be avoided - junit.framework.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:8: Using the '.*' form of import should be avoided - org.apache.commons.collections.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:17: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:24: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:25: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:29:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:30:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:31: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:31:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:32: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:32:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:33: Line is longer than 80 characters.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:33:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:34:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:35: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:35:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:36:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:37:1: Line contains a tab character.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:38:35: Parameter fixtures should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:38:46: Expected @param tag for 'fixtures'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:41:33: Parameter input should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:48:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:48:35: Parameter fixture should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:61:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:62:9: Parameter fixture should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:63:9: Parameter eachTestCase should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:70:34: '{' is followed by whitespace.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:74:31: '{' is followed by whitespace.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:75:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:81:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:87:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:93:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:99:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ParameterizedTestSuite.java:110:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:1: Line does not match expected header line of 'This is an empty license. We need to replace it with a real one.'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:3: Using the '.*' form of import should be avoided - java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:5: Using the '.*' form of import should be avoided - junit.framework.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:7: Using the '.*' form of import should be avoided - org.apache.commons.collections.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:9: Using the '.*' form of import should be avoided - com.diasparsoftware.java.util.*.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:11: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:12:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:13:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:15:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:16:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:18:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:24: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:24:62: Expected @throws tag for 'Exception'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:31: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:31:55: Parameter keyPropertyName should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:31:62: Expected @param tag for 'keyPropertyName'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:32:16: Expected @throws tag for 'Exception'.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:37: Line has trailing spaces.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:40: Expected an @return tag.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:42:5: Method 'setUp' is not designed for extension - needs to be abstract, final or empty.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:42:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:51:35: Parameter each should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:73:42: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:73:54: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:82:42: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:82:54: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:110:42: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:110:54: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:120:9: '}' should be on the same line.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:138:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:138:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:153:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:153:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:165:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:165:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:224:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:224:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:274:38: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:274:50: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:296:42: Parameter key should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:296:54: Parameter value should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:307:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:307:43: Parameter lhs should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:307:55: Parameter rhs should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:311:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:312:9: Parameter failureMessage should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:313:9: Parameter lhs should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:314:9: Parameter rhs should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:315: 'if' construct must use '{}'s.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:319:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:319:40: Parameter closure should be final.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:323:5: Missing a Javadoc comment.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:323:13: Redundant 'final' modifier.
+D:\home\jbrains\workspace\v3.0\jbrains\DiasparsoftToolkit\source\com\diasparsoftware\util\junit\ValueObjectEqualsTest.java:323:33: Parameter key should be final.
+Audit done.
