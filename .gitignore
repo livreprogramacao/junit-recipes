@@ -1,3 +1,7 @@
+.idea/
+chapter01-fundamentals.iml
+target/
+
 # Compiled class file
 *.class
 
