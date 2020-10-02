@@ -1,4 +1,4 @@
-package com.diasparsoftware.util.test;
+package com.diasparsoftware.util.test.listing;
 
 import com.diasparsoftware.java.util.Money;
 import junit.framework.TestCase;
