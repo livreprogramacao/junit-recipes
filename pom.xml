@@ -1,49 +1,257 @@
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xmlns="http://maven.apache.org/POM/4.0.0"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>com.github.livreprogramacao.example.App</groupId>
-    <artifactId>example</artifactId>
-    <version>1.0.0</version>
-    <packaging>jar</packaging>
-
+    <!--
+    Section: properties details
+    -->
+    <groupId>com.github.livreprogramacao.monedero</groupId>
+    <artifactId>junit-recipes</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>Java unit test: warehouse stock simulation (arrays)</name>
+    <description>
+        Below is a concise JUnit 5 test class that uses arrays to simulate warehouse stock levels and operations
+        (receive, ship, transfer, check).
+        It includes setup, several operation methods operating directly on arrays, and tests that exercise normal and
+        edge cases.
+    </description>
+    <url>https://github.com/livreprogramacao/junit-recipes</url>
+    <!--
+    Section: licenses details
+    -->
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A permissive license allowing the software to be used freely.</comments>
+        </license>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+            <comments>A simple and easy-to-understand license.</comments>
+        </license>
+    </licenses>
+    <!--
+    Section: developers details
+    -->
+    <developers>
+        <developer>
+            <id>john.doe</id>
+            <name>John Doe</name>
+            <email>john.doe@example.com</email>
+            <url>http://johndoe.com</url>
+            <organization>Example Corp</organization>
+            <organizationUrl>http://example.com</organizationUrl>
+            <roles>
+                <role>lead</role>
+                <role>developer</role>
+            </roles>
+            <timezone>UTC-5</timezone>
+        </developer>
+        <developer>
+            <id>jane.smith</id>
+            <name>Jane Smith</name>
+            <email>jane.smith@example.com</email>
+            <url>http://janesmith.com</url>
+            <organization>Tech Solutions</organization>
+            <organizationUrl>http://techsolutions.com</organizationUrl>
+            <roles>
+                <role>developer</role>
+                <role>tester</role>
+            </roles>
+            <timezone>UTC+0</timezone>
+        </developer>
+    </developers>
+    <!--
+    Section: scm details
+    -->
+    <scm>
+        <connection>scm:git:git://github.com/livreprogramacao/junit-recipes.git</connection>
+        <developerConnection>scm:git:ssh://github.com/livreprogramacao/junit-recipes.git</developerConnection>
+        <tag>v0.0.1</tag>
+        <url>https://github.com/livreprogramacao/junit-recipes</url>
+    </scm>
+    <!--
+    Section: properties details
+    -->
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <h2.version>2.4.240</h2.version>
+        <hibernate.core.version>5.4.32.Final</hibernate.core.version>
+        <java.version>25</java.version>
+        <javax.persistence.api.version>2.2</javax.persistence.api.version>
         <junit.jupiter.version>5.10.0</junit.jupiter.version>
+        <log4j.version>2.14.1</log4j.version>
+        <lombok.version>1.18.42</lombok.version>
+        <main.class>com.github.livreprogramacao.example.App</main.class> <!-- Define your main class here -->
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
+        <slf4j.api.version>1.7.36</slf4j.api.version>
+        <mapstruct.version>1.6.3</mapstruct.version>
+        <jakarta.version>10.0.0</jakarta.version>
+        <jakarta.ws.rs.api.version>3.1.0</jakarta.ws.rs.api.version>
     </properties>
-
+    <!--
+    Section: dependencies details
+    -->
     <dependencies>
+        <!-- Jakarta web -->
         <dependency>
-            <!-- JUnit Jupiter API and Engine -->
+            <groupId>jakarta.ws.rs</groupId>
+            <artifactId>jakarta.ws.rs-api</artifactId>
+            <version>${jakarta.ws.rs.api.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>jakarta.servlet</groupId>
+            <artifactId>jakarta.servlet-api</artifactId>
+            <version>6.1.0</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>jakarta.inject</groupId>
+            <artifactId>jakarta.inject-api</artifactId>
+            <version>2.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>jakarta.annotation</groupId>
+            <artifactId>jakarta.annotation-api</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.containers</groupId>
+            <artifactId>jersey-container-servlet-core</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <!--
+                <dependency>
+                    <groupId>javax.servlet</groupId>
+                    <artifactId>jersey-media-servlet</artifactId>
+                    <version>4.0.1</version>
+                </dependency>
+        -->
+        <dependency>
+            <groupId>org.glassfish.jersey.inject</groupId>
+            <artifactId>jersey-hk2</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <!-- Mapstruct -->
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct</artifactId>
+            <version>${mapstruct.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct-processor</artifactId>
+            <version>${mapstruct.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <!-- Jakarta Validator -->
+        <dependency>
+            <groupId>jakarta.validation</groupId>
+            <artifactId>jakarta.validation-api</artifactId>
+            <version>2.0.2</version>
+        </dependency>
+        <!-- SLF4J API -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.api.version}</version> <!-- Use the latest version -->
+        </dependency>
+        <!-- SLF4J Implementation -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>${slf4j.api.version}</version> <!-- Log4j binding -->
+        </dependency>
+        <!-- Lombok set up -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version> <!-- Check for the latest version -->
+            <scope>compile</scope>
+        </dependency>
+        <!-- JPA Dependency -->
+        <dependency>
+            <groupId>javax.persistence</groupId>
+            <artifactId>javax.persistence-api</artifactId>
+            <version>${javax.persistence.api.version}</version>
+        </dependency>
+        <!-- JPA Implementation (Hibernate) -->
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>${hibernate.core.version}</version>
+        </dependency>
+        <!-- H2 Database Dependency -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>${h2.version}</version>
+            <scope>runtime</scope>
+        </dependency>
+        <!-- Testing -->
+        <dependency>
             <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter</artifactId>
+            <artifactId>junit-jupiter-engine</artifactId>
             <version>${junit.jupiter.version}</version>
             <scope>test</scope>
         </dependency>
-
-        <dependency>
-            <!-- Optional: AssertJ for fluent assertions -->
-            <groupId>org.assertj</groupId>
-            <artifactId>assertj-core</artifactId>
-            <version>3.24.2</version>
-            <scope>test</scope>
-        </dependency>
     </dependencies>
-
+    <!--
+    Section: build
+    The <build> section is essential for defining how your project should be compiled, packaged, and tested.
+    This section enables you to configure various plugins crucial for building your application effectively.
+    Proper configuration of this section can optimize your build process and streamline development workflows.
+    -->
     <build>
         <plugins>
             <plugin>
-                <!-- Surefire to run tests -->
+                <!-- Apache Maven that is used to compile the source code of a project. -->
                 <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>3.1.2</version>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.10.1</version>
                 <configuration>
-                    <useModulePath>false</useModulePath>
+                    <source>${java.version}</source>
+                    <target>${java.version}</target>
+                    <encoding>UTF-8</encoding>
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok</artifactId>
+                            <version>${lombok.version}</version>
+                        </path>
+                        <path>
+                            <groupId>org.mapstruct</groupId>
+                            <artifactId>mapstruct-processor</artifactId>
+                            <version>${mapstruct.version}</version>
+                        </path>
+                    </annotationProcessorPaths>
                 </configuration>
             </plugin>
         </plugins>
     </build>
+    <!--
+    Section: profiles
+    Using profiles to define properties
+    -->
+    <profiles>
+        <profile>
+            <id>dev</id>
+            <properties>
+                <property name="database.url" value="jdbc:mysql://localhost:3306/devdb"/>
+                <property name="database.username" value="devuser"/>
+                <property name="database.password" value="devpassword"/>
+            </properties>
+        </profile>
+        <profile>
+            <id>prod</id>
+            <properties>
+                <property name="database.url" value="jdbc:mysql://prodhost:3306/proddb"/>
+                <property name="database.username" value="produser"/>
+                <property name="database.password" value="prodpassword"/>
+            </properties>
+        </profile>
+    </profiles>
 </project>
