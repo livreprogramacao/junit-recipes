@@ -2,7 +2,15 @@
 
 ## Java unit test: warehouse stock simulation (arrays)
 
-Below is a concise JUnit 5 test class that uses arrays to simulate warehouse stock levels and operations (receive, ship, transfer, check). It includes setup, several operation methods operating directly on arrays, and tests that exercise normal and edge cases.
+Below is a concise JUnit 5 test class that uses arrays to simulate warehouse stock levels and operations:
+
+1. receive,
+2. ship,
+3. transfer,
+4. check.
+
+It includes setup, several operation methods operating directly on arrays, and tests that exercise normal and edge
+cases.
 
 ```java
 import static org.junit.jupiter.api.Assertions.*;
