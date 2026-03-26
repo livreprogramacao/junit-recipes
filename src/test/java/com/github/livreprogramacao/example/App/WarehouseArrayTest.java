@@ -13,6 +13,15 @@ class WarehouseArrayTest {
     // stockLevel[i] = quantity of SKU i in warehouse
     private int[] stockLevel;
 
+    private void print(String message) {
+        // indexed format
+        System.out.println("| SKU | qty |");
+        for (int i = 0; i < stockLevel.length; i++) {
+            System.out.printf("| %03d | %03d |%n", i, stockLevel[i]);
+        }
+        System.out.printf("%s : %s%n", message, java.util.Arrays.toString(stockLevel));
+    }
+
     @BeforeEach
     void setUp() {
         // initialize the object under test.
@@ -23,9 +32,14 @@ class WarehouseArrayTest {
 
     @Test
     void testReceiveIncreasesStock() {
+        print("before receive increases stock operation");
         instance.receive(stockLevel, 1, 7);
+        print("after receive increases stock operation");
         assertEquals(7, stockLevel[1]);
+
+        print("before receive increases stock operation");
         instance.receive(stockLevel, 0, 3);
+        print("after receive increases stock operation");
         assertEquals(13, stockLevel[0]);
     }
 
