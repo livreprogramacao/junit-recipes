@@ -16,10 +16,10 @@
         edge cases.
     </description>
     <url>https://github.com/livreprogramacao/junit-recipes</url>
-    <!--
-    Section: licenses details
-    -->
     <licenses>
+        <!--
+        Section: licenses details
+        -->
         <license>
             <name>The Apache License, Version 2.0</name>
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -33,10 +33,10 @@
             <comments>A simple and easy-to-understand license.</comments>
         </license>
     </licenses>
-    <!--
-    Section: developers details
-    -->
     <developers>
+        <!--
+        Section: developers details
+        -->
         <developer>
             <id>john.doe</id>
             <name>John Doe</name>
@@ -51,7 +51,7 @@
             <timezone>UTC-5</timezone>
         </developer>
         <developer>
-            <id>jane.smith</id>
+            <id>maria.smith</id>
             <name>Jane Smith</name>
             <email>jane.smith@example.com</email>
             <url>http://janesmith.com</url>
@@ -64,19 +64,19 @@
             <timezone>UTC+0</timezone>
         </developer>
     </developers>
-    <!--
-    Section: scm details
-    -->
     <scm>
+        <!--
+        Section: scm details
+        -->
         <connection>scm:git:git://github.com/livreprogramacao/junit-recipes.git</connection>
         <developerConnection>scm:git:ssh://github.com/livreprogramacao/junit-recipes.git</developerConnection>
         <tag>v0.0.1</tag>
         <url>https://github.com/livreprogramacao/junit-recipes</url>
     </scm>
-    <!--
-    Section: properties details
-    -->
     <properties>
+        <!--
+        Section: properties details
+        -->
         <h2.version>2.4.240</h2.version>
         <hibernate.core.version>5.4.32.Final</hibernate.core.version>
         <java.version>25</java.version>
@@ -92,12 +92,12 @@
         <jakarta.version>10.0.0</jakarta.version>
         <jakarta.ws.rs.api.version>3.1.0</jakarta.ws.rs.api.version>
     </properties>
-    <!--
-    Section: dependencies details
-    -->
     <dependencies>
-        <!-- Jakarta web -->
+        <!--
+        Section: dependencies details
+        -->
         <dependency>
+            <!-- Jakarta web -->
             <groupId>jakarta.ws.rs</groupId>
             <artifactId>jakarta.ws.rs-api</artifactId>
             <version>${jakarta.ws.rs.api.version}</version>
@@ -135,8 +135,8 @@
             <artifactId>jersey-hk2</artifactId>
             <version>3.1.0</version>
         </dependency>
-        <!-- Mapstruct -->
         <dependency>
+            <!-- Mapstruct -->
             <groupId>org.mapstruct</groupId>
             <artifactId>mapstruct</artifactId>
             <version>${mapstruct.version}</version>
@@ -147,65 +147,65 @@
             <version>${mapstruct.version}</version>
             <scope>provided</scope>
         </dependency>
-        <!-- Jakarta Validator -->
         <dependency>
+            <!-- Jakarta Validator -->
             <groupId>jakarta.validation</groupId>
             <artifactId>jakarta.validation-api</artifactId>
             <version>2.0.2</version>
         </dependency>
-        <!-- SLF4J API -->
         <dependency>
+            <!-- SLF4J API -->
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>${slf4j.api.version}</version> <!-- Use the latest version -->
         </dependency>
-        <!-- SLF4J Implementation -->
         <dependency>
+            <!-- SLF4J Implementation -->
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>${slf4j.api.version}</version> <!-- Log4j binding -->
         </dependency>
-        <!-- Lombok set up -->
         <dependency>
+            <!-- Lombok set up -->
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version> <!-- Check for the latest version -->
             <scope>compile</scope>
         </dependency>
-        <!-- JPA Dependency -->
         <dependency>
+            <!-- JPA Dependency -->
             <groupId>javax.persistence</groupId>
             <artifactId>javax.persistence-api</artifactId>
             <version>${javax.persistence.api.version}</version>
         </dependency>
-        <!-- JPA Implementation (Hibernate) -->
         <dependency>
+            <!-- JPA Implementation (Hibernate) -->
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
             <version>${hibernate.core.version}</version>
         </dependency>
-        <!-- H2 Database Dependency -->
         <dependency>
+            <!-- H2 Database Dependency -->
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <version>${h2.version}</version>
             <scope>runtime</scope>
         </dependency>
-        <!-- Testing -->
         <dependency>
+            <!-- Testing -->
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <version>${junit.jupiter.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <!--
-    Section: build
-    The <build> section is essential for defining how your project should be compiled, packaged, and tested.
-    This section enables you to configure various plugins crucial for building your application effectively.
-    Proper configuration of this section can optimize your build process and streamline development workflows.
-    -->
     <build>
+        <!--
+        Section: build
+        The <build> section is essential for defining how your project should be compiled, packaged, and tested.
+        This section enables you to configure various plugins crucial for building your application effectively.
+        Proper configuration of this section can optimize your build process and streamline development workflows.
+        -->
         <plugins>
             <plugin>
                 <!-- Apache Maven that is used to compile the source code of a project. -->
@@ -232,11 +232,11 @@
             </plugin>
         </plugins>
     </build>
-    <!--
-    Section: profiles
-    Using profiles to define properties
-    -->
     <profiles>
+        <!--
+        Section: profiles
+        Using profiles to define properties
+        -->
         <profile>
             <id>dev</id>
             <properties>
