@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class WarehouseArrayTest {
 
     //
-    private WarehouseArray instance;
+    private com.github.livreprogramacao.example.App.WarehouseArray instance;
 
     // stockLevel[i] = quantity of SKU i in warehouse
     private int[] stockLevel;
@@ -25,7 +25,7 @@ class WarehouseArrayTest {
     @BeforeEach
     void setUp() {
         // initialize the object under test.
-        instance = new WarehouseArray();
+        instance = new com.github.livreprogramacao.example.App.WarehouseArray();
         // initialize with 5 SKUs
         stockLevel = new int[]{10, 0, 5, 20, 3};
     }

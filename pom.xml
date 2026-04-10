@@ -5,7 +5,7 @@
     <!--
     Section: properties details
     -->
-    <groupId>com.github.livreprogramacao.monedero</groupId>
+    <groupId>com.github.livreprogramacao.example</groupId>
     <artifactId>junit-recipes</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Java unit test: warehouse stock simulation (arrays)</name>
