@@ -1,4 +1,4 @@
-package com.github.livreprogramacao.example.App;
+package com.github.livreprogramacao.example.app;
 
 public class WarehouseArray {
 
